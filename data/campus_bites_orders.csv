@@ -1,0 +1,1133 @@
+order_id,order_date,order_time,customer_segment,order_value,cuisine_type,delivery_time_mins,promo_code_used,is_reorder
+1,2025-07-01,13:03:14,Grad Student,28.61,Asian,31,No,Yes
+2,2025-07-01,14:14:08,Off-Campus,17.36,Indian,20,Yes,Yes
+3,2025-07-01,14:44:27,Off-Campus,16.44,Breakfast,33,No,Yes
+4,2025-07-01,20:46:10,Grad Student,35.46,Breakfast,17,No,No
+5,2025-07-02,17:05:59,Grad Student,27.12,Asian,25,No,No
+6,2025-07-03,18:45:44,Greek Life,36.96,Pizza,35,No,No
+7,2025-07-03,20:33:16,Grad Student,40.67,Pizza,27,No,No
+8,2025-07-04,11:32:16,Greek Life,53.49,Pizza,35,Yes,Yes
+9,2025-07-04,20:40:53,Dorm,12.14,Pizza,35,Yes,No
+10,2025-07-05,16:33:35,Dorm,5.91,Indian,20,No,No
+11,2025-07-06,17:55:40,Grad Student,24.01,Mediterranean,40,Yes,No
+12,2025-07-06,19:25:35,Off-Campus,20.14,Burgers,25,No,No
+13,2025-07-06,20:16:59,Greek Life,48.81,Asian,22,No,No
+14,2025-07-07,13:01:35,Dorm,17.06,Asian,40,Yes,No
+15,2025-07-07,18:27:11,Dorm,14.39,Breakfast,35,No,No
+16,2025-07-08,11:42:41,Off-Campus,16.65,Mediterranean,36,Yes,No
+17,2025-07-08,18:45:13,Dorm,19.23,Asian,33,No,Yes
+18,2025-07-08,21:05:46,Dorm,13.30,Mediterranean,30,No,Yes
+19,2025-07-09,13:06:24,Off-Campus,24.87,Burgers,20,No,No
+20,2025-07-09,15:07:18,Grad Student,19.94,Indian,33,No,Yes
+21,2025-07-10,20:20:25,Off-Campus,15.93,Burgers,22,No,Yes
+22,2025-07-12,11:32:31,Grad Student,28.83,Pizza,31,No,No
+23,2025-07-12,15:27:38,Off-Campus,20.47,Indian,30,Yes,Yes
+24,2025-07-13,19:01:07,Off-Campus,20.79,Mexican,26,No,Yes
+25,2025-07-14,17:43:41,Grad Student,30.17,Asian,30,No,No
+26,2025-07-15,18:32:30,Dorm,18.10,Mediterranean,13,No,Yes
+27,2025-07-15,20:35:00,Dorm,23.27,Mexican,41,Yes,Yes
+28,2025-07-16,20:09:16,Dorm,19.76,Asian,39,No,Yes
+29,2025-07-17,18:17:28,Off-Campus,21.63,Burgers,33,No,No
+30,2025-07-17,21:03:32,Grad Student,30.93,Mediterranean,32,No,Yes
+31,2025-07-17,21:23:27,Grad Student,36.36,Asian,34,No,No
+32,2025-07-18,11:02:19,Grad Student,16.26,Breakfast,42,Yes,Yes
+33,2025-07-18,13:36:30,Grad Student,27.35,Asian,38,Yes,No
+34,2025-07-18,13:55:38,Grad Student,22.72,Mexican,32,No,Yes
+35,2025-07-18,17:42:52,Grad Student,11.72,Pizza,25,No,Yes
+36,2025-07-20,18:10:29,Off-Campus,7.03,Mexican,45,No,No
+37,2025-07-20,18:43:19,Off-Campus,18.53,Pizza,35,Yes,No
+38,2025-07-20,22:36:12,Greek Life,44.97,Burgers,28,Yes,Yes
+39,2025-07-22,13:27:08,Grad Student,29.97,Asian,27,No,No
+40,2025-07-22,13:56:55,Off-Campus,12.21,Pizza,35,No,No
+41,2025-07-22,20:57:33,Dorm,11.76,Pizza,32,Yes,No
+42,2025-07-23,18:18:13,Grad Student,36.03,Mexican,28,No,Yes
+43,2025-07-24,19:18:38,Greek Life,48.69,Mediterranean,36,No,No
+44,2025-07-25,11:51:20,Greek Life,42.39,Breakfast,32,No,No
+45,2025-07-25,21:38:20,Grad Student,23.60,Asian,30,No,No
+46,2025-07-26,12:01:11,Greek Life,45.09,Breakfast,24,No,No
+47,2025-07-26,21:01:42,Dorm,16.40,Indian,36,No,Yes
+48,2025-07-27,22:57:10,Grad Student,26.68,Asian,22,Yes,No
+49,2025-07-28,19:51:02,Dorm,14.29,Breakfast,21,No,No
+50,2025-07-29,10:26:34,Grad Student,26.86,Mediterranean,21,Yes,Yes
+51,2025-07-29,12:14:11,Greek Life,52.17,Asian,20,No,No
+52,2025-07-29,16:01:54,Grad Student,33.71,Mexican,24,No,Yes
+53,2025-07-29,17:39:05,Dorm,9.79,Asian,35,No,Yes
+54,2025-07-29,20:16:53,Dorm,15.78,Asian,31,No,Yes
+55,2025-07-30,14:40:27,Dorm,15.65,Burgers,28,Yes,No
+56,2025-08-01,13:53:55,Off-Campus,7.07,Breakfast,22,No,Yes
+57,2025-08-03,18:06:44,Off-Campus,19.37,Mexican,16,Yes,No
+58,2025-08-03,19:50:50,Greek Life,33.52,Breakfast,23,No,No
+59,2025-08-03,20:58:44,Dorm,13.52,Pizza,37,No,Yes
+60,2025-08-04,13:08:24,Grad Student,17.01,Salads,33,No,Yes
+61,2025-08-04,13:22:36,Greek Life,40.71,Pizza,40,No,Yes
+62,2025-08-04,18:29:44,Grad Student,26.74,Mediterranean,37,No,No
+63,2025-08-04,20:00:46,Greek Life,60.98,Breakfast,41,Yes,No
+64,2025-08-05,12:39:40,Dorm,8.90,Burgers,24,No,Yes
+65,2025-08-05,21:53:31,Off-Campus,9.16,Burgers,19,No,Yes
+66,2025-08-06,10:06:37,Off-Campus,22.27,Mexican,31,No,Yes
+67,2025-08-08,12:38:38,Dorm,15.81,Asian,25,No,Yes
+68,2025-08-08,17:11:16,Off-Campus,25.79,Mexican,34,No,No
+69,2025-08-08,18:10:11,Grad Student,39.45,Mediterranean,37,Yes,No
+70,2025-08-08,19:43:48,Off-Campus,16.67,Salads,20,No,No
+71,2025-08-08,21:43:23,Grad Student,8.43,Asian,25,No,Yes
+72,2025-08-09,15:21:59,Greek Life,48.22,Pizza,25,No,No
+73,2025-08-10,14:37:23,Off-Campus,17.76,Burgers,27,No,Yes
+74,2025-08-12,10:19:40,Grad Student,37.41,Mexican,27,No,No
+75,2025-08-12,19:04:32,Off-Campus,17.52,Asian,29,No,Yes
+76,2025-08-12,19:42:06,Dorm,17.52,Mexican,25,Yes,No
+77,2025-08-14,10:35:21,Grad Student,22.40,Asian,36,Yes,No
+78,2025-08-14,11:29:07,Dorm,13.44,Breakfast,27,Yes,No
+79,2025-08-14,13:07:54,Grad Student,18.91,Mexican,18,No,Yes
+80,2025-08-14,17:39:47,Greek Life,62.52,Mediterranean,37,Yes,Yes
+81,2025-08-15,19:20:54,Off-Campus,18.33,Burgers,46,No,No
+82,2025-08-15,20:16:42,Dorm,23.12,Breakfast,31,No,Yes
+83,2025-08-16,10:15:29,Grad Student,20.47,Indian,28,No,No
+84,2025-08-16,17:05:18,Off-Campus,19.36,Burgers,41,No,No
+85,2025-08-17,20:32:14,Off-Campus,19.40,Salads,29,No,No
+86,2025-08-18,11:20:16,Off-Campus,12.11,Asian,47,No,No
+87,2025-08-18,11:26:28,Dorm,13.11,Pizza,23,Yes,Yes
+88,2025-08-18,17:12:33,Off-Campus,12.57,Mexican,39,No,Yes
+89,2025-08-18,22:33:32,Dorm,22.26,Burgers,23,No,No
+90,2025-08-19,13:13:37,Dorm,16.93,Burgers,44,Yes,No
+91,2025-08-20,17:54:21,Dorm,20.34,Burgers,19,No,No
+92,2025-08-22,16:09:31,Grad Student,30.55,Breakfast,29,No,Yes
+93,2025-08-22,17:31:54,Grad Student,23.32,Asian,37,Yes,Yes
+94,2025-08-22,18:28:34,Grad Student,20.74,Salads,31,No,No
+95,2025-08-23,12:14:54,Greek Life,46.57,Salads,28,No,No
+96,2025-08-23,20:17:32,Dorm,10.32,Mexican,28,No,No
+97,2025-08-23,22:10:44,Off-Campus,17.63,Burgers,32,Yes,Yes
+98,2025-08-24,18:12:13,Dorm,14.74,Mexican,24,No,No
+99,2025-08-24,21:29:04,Off-Campus,26.26,Indian,44,No,No
+100,2025-08-25,10:02:48,Off-Campus,21.70,Salads,31,No,Yes
+101,2025-08-25,13:41:28,Dorm,17.46,Mexican,28,No,No
+102,2025-08-26,17:50:25,Greek Life,60.83,Asian,31,No,No
+103,2025-08-27,11:23:11,Greek Life,39.93,Pizza,40,Yes,Yes
+104,2025-08-27,19:06:43,Grad Student,27.16,Indian,32,No,No
+105,2025-08-28,10:08:34,Dorm,14.99,Mexican,34,Yes,Yes
+106,2025-08-28,14:42:13,Dorm,11.18,Pizza,23,No,Yes
+107,2025-08-28,17:15:40,Off-Campus,16.35,Burgers,25,Yes,No
+108,2025-08-28,17:25:31,Dorm,20.67,Pizza,34,Yes,No
+109,2025-08-28,17:58:38,Dorm,14.74,Breakfast,17,No,Yes
+110,2025-08-29,11:33:12,Off-Campus,24.85,Asian,36,No,No
+111,2025-08-29,16:09:27,Grad Student,30.81,Mediterranean,38,No,No
+112,2025-08-30,11:04:03,Off-Campus,20.16,Mediterranean,35,No,Yes
+113,2025-08-30,13:31:07,Grad Student,36.71,Salads,32,No,Yes
+114,2025-08-31,12:06:55,Dorm,18.67,Asian,30,No,No
+115,2025-08-31,12:54:25,Grad Student,24.01,Mediterranean,31,No,No
+116,2025-09-01,15:29:43,Dorm,14.09,Burgers,23,Yes,No
+117,2025-09-01,19:41:19,Off-Campus,9.02,Mexican,31,Yes,Yes
+118,2025-09-02,12:45:30,Off-Campus,24.93,Pizza,37,No,No
+119,2025-09-02,16:21:04,Off-Campus,14.93,Asian,38,Yes,No
+120,2025-09-02,18:23:35,Grad Student,25.34,Mexican,37,No,No
+121,2025-09-02,18:28:39,Off-Campus,16.19,Asian,41,No,Yes
+122,2025-09-02,20:35:33,Grad Student,30.48,Burgers,34,No,No
+123,2025-09-03,12:44:04,Dorm,13.47,Indian,29,No,No
+124,2025-09-03,15:42:22,Off-Campus,16.41,Burgers,21,Yes,Yes
+125,2025-09-03,18:03:17,Greek Life,34.28,Pizza,37,Yes,No
+126,2025-09-03,18:41:55,Grad Student,24.47,Mexican,34,No,No
+127,2025-09-03,19:19:28,Dorm,11.21,Mexican,26,No,Yes
+128,2025-09-04,13:25:33,Grad Student,39.46,Salads,37,Yes,No
+129,2025-09-04,16:21:50,Dorm,15.76,Breakfast,32,No,No
+130,2025-09-05,12:45:05,Off-Campus,14.92,Burgers,36,No,Yes
+131,2025-09-05,16:35:06,Greek Life,40.34,Burgers,37,Yes,Yes
+132,2025-09-05,18:00:16,Dorm,11.36,Burgers,35,No,No
+133,2025-09-06,16:08:55,Grad Student,27.00,Indian,40,No,Yes
+134,2025-09-06,16:46:41,Dorm,19.25,Indian,28,No,No
+135,2025-09-07,10:46:48,Dorm,21.22,Burgers,38,No,No
+136,2025-09-07,13:02:28,Dorm,9.27,Pizza,24,No,Yes
+137,2025-09-07,14:08:32,Dorm,18.28,Breakfast,30,No,No
+138,2025-09-07,15:10:46,Grad Student,21.78,Burgers,31,No,No
+139,2025-09-08,12:14:19,Grad Student,28.45,Mediterranean,19,No,No
+140,2025-09-08,20:33:33,Dorm,11.70,Breakfast,26,No,No
+141,2025-09-09,13:09:48,Dorm,15.10,Breakfast,27,No,No
+142,2025-09-09,18:03:42,Grad Student,31.41,Asian,34,No,No
+143,2025-09-10,17:31:47,Off-Campus,15.62,Mexican,32,Yes,No
+144,2025-09-10,19:23:39,Off-Campus,20.29,Asian,47,No,No
+145,2025-09-10,20:18:34,Dorm,17.14,Pizza,30,Yes,Yes
+146,2025-09-11,16:38:05,Dorm,16.94,Mediterranean,27,Yes,Yes
+147,2025-09-11,20:22:55,Grad Student,21.09,Indian,20,No,No
+148,2025-09-11,22:07:43,Dorm,16.65,Pizza,39,No,No
+149,2025-09-12,13:02:27,Off-Campus,29.19,Indian,32,No,No
+150,2025-09-12,13:13:09,Off-Campus,16.03,Pizza,26,No,Yes
+151,2025-09-12,18:39:56,Grad Student,32.16,Breakfast,33,No,No
+152,2025-09-12,19:15:07,Dorm,17.85,Asian,31,No,Yes
+153,2025-09-12,19:29:28,Grad Student,33.53,Asian,32,No,No
+154,2025-09-12,20:17:40,Greek Life,74.94,Pizza,28,No,Yes
+155,2025-09-13,10:02:38,Grad Student,31.36,Asian,36,No,Yes
+156,2025-09-13,10:16:47,Dorm,22.89,Burgers,31,No,No
+157,2025-09-13,13:40:01,Grad Student,34.22,Asian,35,No,Yes
+158,2025-09-13,19:19:16,Off-Campus,11.42,Asian,41,No,No
+159,2025-09-13,22:15:55,Dorm,21.74,Breakfast,23,No,Yes
+160,2025-09-14,12:01:20,Off-Campus,23.72,Asian,45,No,Yes
+161,2025-09-14,12:11:48,Off-Campus,14.39,Burgers,29,No,Yes
+162,2025-09-14,20:25:26,Greek Life,44.67,Burgers,24,Yes,No
+163,2025-09-14,20:26:17,Grad Student,28.80,Asian,38,Yes,No
+164,2025-09-15,20:13:21,Dorm,11.95,Mexican,26,No,No
+165,2025-09-15,21:26:03,Dorm,11.53,Burgers,34,Yes,Yes
+166,2025-09-15,22:34:22,Greek Life,35.16,Mediterranean,17,No,Yes
+167,2025-09-16,11:05:27,Off-Campus,24.73,Salads,37,No,No
+168,2025-09-16,11:09:04,Greek Life,40.00,Mexican,42,No,No
+169,2025-09-16,15:21:43,Grad Student,32.61,Asian,35,No,No
+170,2025-09-16,17:57:05,Off-Campus,21.46,Pizza,31,No,No
+171,2025-09-16,21:23:43,Off-Campus,31.64,Asian,23,Yes,Yes
+172,2025-09-17,11:08:45,Grad Student,23.05,Mexican,37,No,No
+173,2025-09-17,17:14:25,Grad Student,29.34,Burgers,30,No,No
+174,2025-09-17,17:35:29,Grad Student,24.20,Pizza,25,Yes,Yes
+175,2025-09-17,19:04:58,Off-Campus,16.36,Mexican,29,No,No
+176,2025-09-17,19:31:01,Dorm,18.80,Asian,34,Yes,No
+177,2025-09-18,13:10:37,Dorm,17.43,Mexican,29,No,No
+178,2025-09-18,13:36:15,Grad Student,25.86,Pizza,24,No,No
+179,2025-09-19,11:05:02,Greek Life,65.54,Burgers,26,Yes,No
+180,2025-09-19,11:27:32,Grad Student,29.00,Burgers,29,Yes,Yes
+181,2025-09-19,12:54:35,Off-Campus,27.12,Mexican,28,No,Yes
+182,2025-09-19,13:46:54,Dorm,24.17,Pizza,24,No,Yes
+183,2025-09-19,19:55:40,Grad Student,23.96,Mexican,37,No,No
+184,2025-09-20,11:25:23,Off-Campus,19.27,Indian,24,No,Yes
+185,2025-09-20,18:03:28,Dorm,22.67,Burgers,39,No,No
+186,2025-09-20,18:46:03,Off-Campus,15.35,Mexican,28,No,No
+187,2025-09-20,20:37:35,Dorm,22.07,Pizza,27,No,No
+188,2025-09-20,20:39:47,Dorm,18.32,Asian,22,No,No
+189,2025-09-20,21:45:08,Grad Student,18.08,Breakfast,29,No,Yes
+190,2025-09-20,22:05:37,Greek Life,32.18,Burgers,17,No,No
+191,2025-09-21,11:04:45,Off-Campus,18.91,Burgers,22,Yes,Yes
+192,2025-09-21,13:12:57,Dorm,15.69,Breakfast,24,No,Yes
+193,2025-09-21,17:51:23,Dorm,10.80,Burgers,33,No,Yes
+194,2025-09-22,11:09:54,Off-Campus,11.20,Pizza,22,Yes,No
+195,2025-09-22,12:04:33,Dorm,7.39,Asian,27,Yes,No
+196,2025-09-22,13:44:07,Dorm,16.76,Burgers,37,No,Yes
+197,2025-09-22,18:38:24,Grad Student,29.50,Mediterranean,34,No,No
+198,2025-09-22,20:13:55,Grad Student,31.96,Indian,27,Yes,Yes
+199,2025-09-22,21:41:42,Off-Campus,13.80,Asian,33,Yes,Yes
+200,2025-09-23,10:19:35,Dorm,9.30,Salads,39,No,No
+201,2025-09-23,13:57:18,Dorm,16.94,Mexican,26,No,Yes
+202,2025-09-23,19:32:14,Off-Campus,20.42,Pizza,33,No,Yes
+203,2025-09-23,19:44:58,Off-Campus,21.34,Pizza,30,Yes,Yes
+204,2025-09-23,19:51:05,Dorm,14.74,Mexican,27,No,No
+205,2025-09-23,20:48:34,Grad Student,31.20,Salads,18,No,No
+206,2025-09-24,10:30:58,Off-Campus,18.32,Burgers,40,No,No
+207,2025-09-24,14:02:22,Off-Campus,9.22,Pizza,26,No,No
+208,2025-09-24,22:35:31,Grad Student,33.16,Mediterranean,32,No,No
+209,2025-09-25,12:07:03,Grad Student,27.73,Mediterranean,40,Yes,No
+210,2025-09-25,13:54:40,Grad Student,37.46,Mexican,22,Yes,No
+211,2025-09-27,17:11:17,Greek Life,42.98,Burgers,24,Yes,No
+212,2025-09-27,18:20:41,Off-Campus,23.00,Mexican,34,Yes,No
+213,2025-09-27,19:56:09,Off-Campus,24.04,Asian,29,Yes,No
+214,2025-09-27,20:11:59,Greek Life,45.85,Burgers,16,Yes,Yes
+215,2025-09-28,11:48:10,Greek Life,42.28,Pizza,45,No,No
+216,2025-09-30,10:18:29,Off-Campus,24.25,Asian,29,No,No
+217,2025-09-30,15:18:07,Grad Student,19.15,Indian,26,No,Yes
+218,2025-09-30,19:08:06,Grad Student,20.04,Asian,24,No,No
+219,2025-09-30,20:52:34,Dorm,13.79,Mexican,30,Yes,No
+220,2025-09-30,22:30:41,Grad Student,32.63,Asian,47,No,No
+221,2025-10-01,17:16:13,Off-Campus,19.71,Salads,31,No,No
+222,2025-10-02,14:01:54,Dorm,13.80,Salads,33,No,No
+223,2025-10-03,18:46:40,Grad Student,17.31,Mexican,30,Yes,Yes
+224,2025-10-03,22:49:54,Greek Life,44.10,Asian,33,No,Yes
+225,2025-10-04,11:44:00,Off-Campus,24.37,Mexican,45,No,No
+226,2025-10-04,16:11:23,Dorm,12.71,Burgers,37,No,No
+227,2025-10-05,11:35:51,Grad Student,36.86,Asian,24,No,Yes
+228,2025-10-05,12:28:35,Dorm,10.66,Pizza,28,No,Yes
+229,2025-10-05,15:46:56,Dorm,22.12,Burgers,40,No,No
+230,2025-10-06,18:08:17,Grad Student,24.42,Pizza,38,No,Yes
+231,2025-10-06,20:39:03,Dorm,22.36,Asian,17,Yes,Yes
+232,2025-10-07,16:22:34,Dorm,13.91,Burgers,39,No,Yes
+233,2025-10-07,18:37:14,Dorm,10.15,Pizza,29,No,Yes
+234,2025-10-07,20:59:04,Dorm,13.23,Asian,39,No,No
+235,2025-10-08,12:53:15,Greek Life,47.30,Mexican,20,No,Yes
+236,2025-10-08,13:37:44,Off-Campus,13.35,Mexican,39,Yes,Yes
+237,2025-10-09,11:43:59,Grad Student,25.34,Mediterranean,39,Yes,No
+238,2025-10-09,12:10:49,Dorm,7.85,Mediterranean,33,No,Yes
+239,2025-10-09,16:23:07,Off-Campus,7.23,Pizza,30,No,No
+240,2025-10-11,20:49:20,Greek Life,55.42,Breakfast,31,No,Yes
+241,2025-10-11,21:18:26,Off-Campus,16.40,Indian,32,No,No
+242,2025-10-11,22:20:26,Off-Campus,27.58,Mediterranean,34,Yes,No
+243,2025-10-12,10:20:50,Off-Campus,20.57,Pizza,34,No,No
+244,2025-10-12,20:50:13,Off-Campus,13.41,Pizza,29,No,No
+245,2025-10-13,12:23:07,Dorm,17.73,Breakfast,28,Yes,No
+246,2025-10-13,12:29:36,Dorm,15.30,Burgers,41,No,Yes
+247,2025-10-13,14:50:44,Grad Student,25.67,Breakfast,22,Yes,Yes
+248,2025-10-13,18:22:01,Grad Student,21.18,Indian,31,Yes,No
+249,2025-10-14,13:42:24,Greek Life,60.30,Salads,35,No,Yes
+250,2025-10-14,20:05:40,Grad Student,17.57,Asian,28,No,No
+251,2025-10-15,11:25:32,Grad Student,26.99,Indian,19,No,No
+252,2025-10-17,22:34:02,Grad Student,28.67,Indian,24,No,No
+253,2025-10-18,13:27:29,Grad Student,27.81,Burgers,37,No,Yes
+254,2025-10-19,17:14:47,Dorm,13.65,Indian,30,Yes,No
+255,2025-10-19,18:31:40,Off-Campus,7.09,Indian,26,Yes,Yes
+256,2025-10-19,20:29:32,Dorm,11.62,Asian,36,No,Yes
+257,2025-10-20,18:20:07,Dorm,15.16,Burgers,33,Yes,Yes
+258,2025-10-20,20:37:07,Off-Campus,12.42,Mexican,41,No,No
+259,2025-10-20,22:37:27,Dorm,9.62,Pizza,37,No,No
+260,2025-10-21,11:31:24,Grad Student,33.26,Mediterranean,35,No,No
+261,2025-10-21,13:09:00,Dorm,15.97,Pizza,38,No,No
+262,2025-10-21,14:25:24,Greek Life,36.22,Mediterranean,36,No,Yes
+263,2025-10-21,15:39:43,Off-Campus,14.73,Indian,32,Yes,Yes
+264,2025-10-21,15:55:02,Off-Campus,13.60,Salads,32,No,No
+265,2025-10-21,16:54:06,Greek Life,67.24,Burgers,20,No,No
+266,2025-10-21,19:42:09,Grad Student,24.32,Pizza,18,No,No
+267,2025-10-21,20:26:45,Grad Student,31.34,Pizza,23,Yes,No
+268,2025-10-22,17:34:35,Greek Life,44.13,Mediterranean,31,No,Yes
+269,2025-10-22,21:03:25,Dorm,9.90,Mediterranean,22,No,Yes
+270,2025-10-23,11:14:24,Greek Life,64.40,Pizza,37,No,Yes
+271,2025-10-23,12:11:25,Off-Campus,22.07,Mediterranean,29,No,No
+272,2025-10-23,14:47:24,Dorm,14.13,Pizza,33,No,Yes
+273,2025-10-23,18:06:58,Grad Student,30.27,Burgers,32,No,No
+274,2025-10-24,18:12:21,Grad Student,28.14,Asian,39,No,No
+275,2025-10-24,18:28:51,Dorm,13.22,Salads,40,No,Yes
+276,2025-10-24,20:23:37,Off-Campus,35.21,Salads,26,No,No
+277,2025-10-25,10:01:54,Off-Campus,23.85,Burgers,18,No,Yes
+278,2025-10-25,13:22:10,Dorm,14.18,Breakfast,28,No,Yes
+279,2025-10-25,16:41:47,Dorm,12.27,Salads,30,Yes,No
+280,2025-10-25,19:34:52,Dorm,15.32,Burgers,18,Yes,Yes
+281,2025-10-26,12:25:37,Dorm,9.33,Mexican,20,Yes,No
+282,2025-10-27,14:41:43,Grad Student,32.37,Pizza,37,No,Yes
+283,2025-10-27,19:28:21,Grad Student,15.18,Mediterranean,36,No,Yes
+284,2025-10-28,11:05:59,Off-Campus,12.96,Mexican,33,No,No
+285,2025-10-28,16:05:46,Grad Student,36.78,Mediterranean,28,No,No
+286,2025-10-28,17:08:48,Dorm,17.24,Breakfast,15,No,Yes
+287,2025-10-29,17:02:06,Off-Campus,11.32,Pizza,21,No,Yes
+288,2025-10-30,20:55:53,Greek Life,35.60,Mediterranean,27,No,No
+289,2025-10-30,21:33:02,Grad Student,28.46,Salads,28,Yes,Yes
+290,2025-10-31,14:00:06,Off-Campus,17.67,Mexican,38,No,No
+291,2025-10-31,18:31:17,Grad Student,24.47,Mexican,35,Yes,No
+292,2025-10-31,18:56:41,Grad Student,22.43,Indian,44,Yes,Yes
+293,2025-11-02,12:13:48,Dorm,15.87,Pizza,21,No,No
+294,2025-11-02,12:58:51,Greek Life,54.30,Mexican,29,No,Yes
+295,2025-11-02,18:21:46,Grad Student,24.57,Mediterranean,20,No,No
+296,2025-11-03,20:37:06,Grad Student,23.80,Breakfast,35,No,Yes
+297,2025-11-04,10:28:11,Off-Campus,20.87,Burgers,29,Yes,Yes
+298,2025-11-04,18:23:31,Off-Campus,15.40,Indian,28,No,Yes
+299,2025-11-05,11:37:32,Off-Campus,20.33,Mexican,36,Yes,No
+300,2025-11-05,12:00:21,Grad Student,10.88,Pizza,33,No,No
+301,2025-11-05,12:01:14,Off-Campus,11.13,Mediterranean,27,Yes,Yes
+302,2025-11-05,12:07:02,Grad Student,29.11,Indian,29,No,No
+303,2025-11-05,17:32:46,Off-Campus,14.99,Salads,26,No,No
+304,2025-11-05,20:04:37,Dorm,10.62,Breakfast,27,Yes,Yes
+305,2025-11-05,20:22:48,Greek Life,57.01,Breakfast,46,No,Yes
+306,2025-11-06,10:57:21,Off-Campus,16.00,Burgers,26,No,Yes
+307,2025-11-06,13:32:25,Grad Student,36.00,Indian,40,Yes,Yes
+308,2025-11-06,15:52:45,Dorm,14.58,Indian,28,No,Yes
+309,2025-11-06,17:03:14,Grad Student,25.87,Mexican,29,No,No
+310,2025-11-06,17:14:16,Dorm,6.63,Mexican,19,No,Yes
+311,2025-11-06,19:26:07,Dorm,5.00,Pizza,26,No,Yes
+312,2025-11-06,20:39:17,Off-Campus,19.60,Salads,28,Yes,Yes
+313,2025-11-07,11:43:04,Off-Campus,19.19,Mexican,34,No,Yes
+314,2025-11-07,12:13:29,Off-Campus,19.47,Burgers,26,No,Yes
+315,2025-11-07,20:33:19,Grad Student,14.90,Burgers,37,No,Yes
+316,2025-11-08,11:51:50,Off-Campus,18.50,Salads,31,No,Yes
+317,2025-11-08,13:05:58,Grad Student,34.03,Mexican,36,No,No
+318,2025-11-08,17:24:50,Off-Campus,16.70,Salads,22,No,No
+319,2025-11-08,19:10:40,Off-Campus,19.62,Mediterranean,28,No,No
+320,2025-11-08,19:41:26,Dorm,6.03,Breakfast,29,No,No
+321,2025-11-08,20:22:59,Off-Campus,23.14,Pizza,19,No,No
+322,2025-11-09,11:57:54,Dorm,8.06,Burgers,29,No,Yes
+323,2025-11-09,12:38:14,Dorm,23.07,Burgers,32,No,No
+324,2025-11-09,13:04:22,Grad Student,26.86,Pizza,33,No,No
+325,2025-11-09,14:18:43,Dorm,14.97,Mexican,43,Yes,No
+326,2025-11-09,16:54:30,Greek Life,51.35,Salads,20,Yes,No
+327,2025-11-10,11:03:25,Dorm,7.25,Pizza,24,No,Yes
+328,2025-11-10,15:08:11,Dorm,13.55,Breakfast,13,No,No
+329,2025-11-10,16:56:35,Grad Student,28.33,Burgers,33,Yes,No
+330,2025-11-10,18:08:26,Greek Life,25.99,Mexican,21,No,No
+331,2025-11-11,17:47:30,Greek Life,68.49,Pizza,23,No,Yes
+332,2025-11-11,19:03:01,Off-Campus,22.68,Pizza,39,Yes,No
+333,2025-11-11,22:58:55,Grad Student,37.84,Mediterranean,31,No,Yes
+334,2025-11-12,12:29:54,Greek Life,48.94,Mediterranean,32,No,No
+335,2025-11-12,17:37:37,Greek Life,44.78,Pizza,43,Yes,No
+336,2025-11-12,17:43:19,Dorm,14.12,Pizza,51,No,No
+337,2025-11-12,20:09:53,Dorm,19.39,Mexican,17,Yes,No
+338,2025-11-13,14:29:28,Off-Campus,19.73,Indian,23,No,Yes
+339,2025-11-13,16:19:06,Off-Campus,21.97,Asian,49,No,No
+340,2025-11-13,18:22:13,Grad Student,31.71,Mexican,27,Yes,No
+341,2025-11-13,19:05:41,Dorm,12.23,Indian,29,No,Yes
+342,2025-11-13,20:02:11,Grad Student,26.38,Mediterranean,34,No,Yes
+343,2025-11-14,15:59:32,Grad Student,29.98,Mediterranean,15,Yes,No
+344,2025-11-14,20:27:30,Dorm,14.07,Pizza,31,No,Yes
+345,2025-11-15,11:18:01,Dorm,10.36,Pizza,46,Yes,Yes
+346,2025-11-15,12:36:03,Dorm,19.04,Pizza,39,No,No
+347,2025-11-16,12:57:54,Greek Life,42.85,Breakfast,22,No,No
+348,2025-11-16,18:44:43,Grad Student,22.95,Mediterranean,26,No,Yes
+349,2025-11-16,18:45:35,Off-Campus,14.01,Salads,15,Yes,No
+350,2025-11-16,21:04:48,Grad Student,21.81,Breakfast,30,Yes,Yes
+351,2025-11-16,21:55:14,Dorm,23.08,Burgers,44,No,Yes
+352,2025-11-17,17:02:57,Dorm,16.27,Mexican,33,No,Yes
+353,2025-11-17,20:21:23,Dorm,18.78,Indian,19,No,No
+354,2025-11-18,10:05:21,Off-Campus,12.27,Asian,25,Yes,No
+355,2025-11-18,17:42:06,Dorm,14.49,Mexican,29,No,Yes
+356,2025-11-19,10:10:06,Grad Student,27.07,Mexican,35,No,No
+357,2025-11-19,17:52:02,Grad Student,25.27,Mediterranean,36,No,Yes
+358,2025-11-19,17:59:06,Dorm,13.08,Burgers,29,No,Yes
+359,2025-11-21,10:11:32,Greek Life,29.52,Mediterranean,27,No,No
+360,2025-11-21,12:13:58,Grad Student,32.16,Salads,20,No,No
+361,2025-11-21,12:26:02,Grad Student,26.88,Pizza,30,No,No
+362,2025-11-21,12:56:35,Off-Campus,15.88,Asian,30,No,No
+363,2025-11-21,19:31:50,Off-Campus,13.77,Salads,27,No,Yes
+364,2025-11-22,18:53:38,Dorm,14.51,Breakfast,45,Yes,Yes
+365,2025-11-22,19:32:56,Dorm,5.61,Breakfast,43,No,Yes
+366,2025-11-22,19:56:54,Grad Student,26.01,Pizza,31,No,Yes
+367,2025-11-22,20:12:06,Dorm,17.72,Burgers,31,Yes,No
+368,2025-11-22,20:29:42,Off-Campus,12.99,Breakfast,26,Yes,No
+369,2025-11-23,20:07:06,Off-Campus,18.21,Burgers,25,No,No
+370,2025-11-24,10:40:13,Dorm,16.91,Burgers,39,No,No
+371,2025-11-24,12:41:14,Dorm,5.00,Burgers,35,Yes,No
+372,2025-11-25,17:53:24,Grad Student,30.04,Mexican,23,No,No
+373,2025-11-26,19:20:28,Dorm,14.76,Pizza,33,No,No
+374,2025-11-26,19:43:08,Greek Life,42.86,Breakfast,20,Yes,Yes
+375,2025-11-27,11:29:03,Greek Life,62.31,Burgers,25,No,No
+376,2025-11-27,16:41:38,Greek Life,38.18,Pizza,26,Yes,No
+377,2025-11-27,17:43:00,Dorm,12.62,Mexican,26,No,Yes
+378,2025-11-27,18:22:45,Off-Campus,15.51,Mexican,32,No,No
+379,2025-11-27,18:47:41,Dorm,11.93,Salads,28,No,Yes
+380,2025-11-28,12:58:37,Dorm,9.20,Burgers,31,No,No
+381,2025-11-28,13:20:27,Greek Life,45.61,Salads,27,Yes,No
+382,2025-11-28,13:45:57,Off-Campus,16.13,Mexican,26,Yes,Yes
+383,2025-11-28,18:30:58,Off-Campus,7.58,Asian,31,Yes,No
+384,2025-11-28,18:42:55,Dorm,12.12,Mexican,37,Yes,No
+385,2025-11-28,18:58:40,Off-Campus,15.97,Mediterranean,20,No,No
+386,2025-11-28,19:13:29,Greek Life,41.32,Mediterranean,38,No,Yes
+387,2025-11-29,13:05:18,Dorm,16.41,Indian,30,No,Yes
+388,2025-11-29,17:06:21,Dorm,15.81,Mexican,34,No,No
+389,2025-11-29,20:22:34,Greek Life,30.02,Salads,39,No,No
+390,2025-11-29,22:09:20,Greek Life,50.91,Pizza,27,No,No
+391,2025-11-30,19:36:36,Off-Campus,25.63,Salads,43,No,No
+392,2025-11-30,20:50:43,Off-Campus,15.57,Pizza,38,Yes,No
+393,2025-12-01,11:22:18,Dorm,14.43,Breakfast,30,No,No
+394,2025-12-01,16:52:17,Greek Life,58.54,Mexican,26,No,Yes
+395,2025-12-01,17:34:00,Grad Student,20.87,Salads,22,No,No
+396,2025-12-01,20:37:06,Off-Campus,14.86,Burgers,39,No,Yes
+397,2025-12-01,22:32:51,Off-Campus,12.23,Burgers,30,No,Yes
+398,2025-12-02,10:38:01,Dorm,5.00,Burgers,28,No,Yes
+399,2025-12-02,12:35:04,Dorm,12.12,Burgers,28,No,No
+400,2025-12-02,13:10:08,Dorm,14.13,Mexican,29,Yes,Yes
+401,2025-12-02,14:11:55,Off-Campus,20.33,Burgers,31,Yes,No
+402,2025-12-02,19:24:30,Grad Student,39.58,Pizza,23,No,Yes
+403,2025-12-02,20:44:38,Dorm,19.34,Pizza,40,No,No
+404,2025-12-03,14:26:34,Dorm,13.08,Pizza,29,Yes,Yes
+405,2025-12-03,15:11:31,Dorm,18.15,Mexican,20,No,No
+406,2025-12-03,18:43:44,Dorm,15.49,Breakfast,36,No,Yes
+407,2025-12-03,20:49:44,Grad Student,29.57,Mexican,33,No,No
+408,2025-12-03,20:59:25,Dorm,10.88,Mexican,24,No,No
+409,2025-12-04,13:34:00,Dorm,12.84,Mexican,27,Yes,No
+410,2025-12-04,18:36:36,Dorm,11.71,Breakfast,23,Yes,Yes
+411,2025-12-04,20:41:13,Grad Student,24.68,Asian,24,Yes,No
+412,2025-12-05,10:43:14,Dorm,17.82,Salads,20,No,No
+413,2025-12-05,12:56:37,Grad Student,27.00,Asian,35,No,No
+414,2025-12-05,16:16:47,Greek Life,44.51,Pizza,27,Yes,Yes
+415,2025-12-05,17:14:05,Dorm,18.07,Burgers,37,No,No
+416,2025-12-05,18:04:32,Grad Student,24.01,Burgers,26,No,No
+417,2025-12-05,18:30:57,Grad Student,25.52,Salads,29,No,Yes
+418,2025-12-05,19:56:30,Greek Life,34.99,Burgers,32,No,Yes
+419,2025-12-05,21:57:49,Grad Student,23.77,Asian,23,No,No
+420,2025-12-06,10:58:32,Dorm,14.40,Mexican,35,Yes,No
+421,2025-12-06,13:53:16,Grad Student,28.52,Salads,34,No,No
+422,2025-12-07,10:39:33,Grad Student,18.13,Salads,31,No,Yes
+423,2025-12-07,16:22:09,Dorm,15.41,Pizza,27,No,No
+424,2025-12-07,18:36:40,Grad Student,35.47,Mexican,27,No,No
+425,2025-12-07,20:41:52,Greek Life,64.48,Pizza,26,No,Yes
+426,2025-12-07,20:49:35,Greek Life,51.55,Asian,35,No,Yes
+427,2025-12-07,22:52:24,Grad Student,28.69,Salads,27,Yes,No
+428,2025-12-08,12:28:40,Grad Student,33.00,Burgers,36,Yes,Yes
+429,2025-12-08,12:43:47,Greek Life,48.06,Breakfast,27,No,Yes
+430,2025-12-08,17:23:15,Grad Student,16.28,Pizza,14,Yes,Yes
+431,2025-12-08,19:46:07,Dorm,9.90,Pizza,31,Yes,No
+432,2025-12-08,21:02:43,Dorm,18.32,Salads,25,Yes,Yes
+433,2025-12-09,13:34:51,Off-Campus,17.62,Pizza,34,Yes,Yes
+434,2025-12-09,13:43:59,Greek Life,57.91,Pizza,26,No,No
+435,2025-12-09,17:53:19,Greek Life,53.39,Mexican,32,Yes,Yes
+436,2025-12-11,18:24:49,Greek Life,27.15,Burgers,26,No,No
+437,2025-12-11,21:14:24,Off-Campus,16.20,Burgers,32,No,No
+438,2025-12-12,18:54:51,Dorm,21.79,Mediterranean,29,Yes,Yes
+439,2025-12-13,10:00:51,Dorm,17.12,Breakfast,32,No,Yes
+440,2025-12-13,17:47:45,Off-Campus,19.97,Burgers,31,No,No
+441,2025-12-14,16:14:50,Dorm,19.35,Burgers,30,No,Yes
+442,2025-12-14,19:12:20,Dorm,11.32,Mediterranean,38,Yes,Yes
+443,2025-12-15,10:57:20,Greek Life,12.00,Indian,23,No,No
+444,2025-12-15,13:31:12,Grad Student,25.27,Breakfast,34,Yes,No
+445,2025-12-15,14:06:13,Off-Campus,9.23,Salads,29,No,No
+446,2025-12-15,17:21:05,Greek Life,62.38,Pizza,16,No,Yes
+447,2025-12-16,11:08:47,Off-Campus,11.08,Mexican,38,No,Yes
+448,2025-12-16,12:38:09,Grad Student,30.59,Burgers,18,No,Yes
+449,2025-12-16,14:28:47,Off-Campus,15.60,Mexican,36,No,Yes
+450,2025-12-16,19:03:23,Grad Student,29.04,Pizza,41,No,No
+451,2025-12-17,11:33:25,Greek Life,31.46,Mexican,41,No,No
+452,2025-12-17,11:51:32,Grad Student,40.78,Salads,26,No,No
+453,2025-12-17,12:18:50,Grad Student,24.06,Pizza,32,No,Yes
+454,2025-12-18,12:25:55,Grad Student,25.31,Breakfast,26,No,No
+455,2025-12-18,12:33:48,Greek Life,51.62,Mexican,30,Yes,No
+456,2025-12-18,13:31:12,Off-Campus,12.28,Burgers,26,No,No
+457,2025-12-18,17:18:42,Greek Life,50.97,Mediterranean,31,No,Yes
+458,2025-12-18,19:19:36,Dorm,11.07,Mediterranean,39,No,No
+459,2025-12-18,19:32:44,Dorm,15.26,Mediterranean,32,No,Yes
+460,2025-12-19,17:19:13,Dorm,14.90,Burgers,15,No,No
+461,2025-12-19,18:47:46,Grad Student,20.44,Burgers,31,No,Yes
+462,2025-12-19,18:48:21,Greek Life,58.91,Asian,28,No,Yes
+463,2025-12-19,19:27:10,Grad Student,32.26,Asian,30,No,Yes
+464,2025-12-20,10:33:15,Dorm,15.17,Burgers,36,No,No
+465,2025-12-20,18:31:27,Grad Student,29.67,Asian,41,No,Yes
+466,2025-12-21,12:39:04,Dorm,18.19,Asian,26,No,Yes
+467,2025-12-21,13:37:25,Greek Life,47.00,Pizza,25,Yes,No
+468,2025-12-21,15:25:14,Grad Student,34.25,Indian,24,Yes,No
+469,2025-12-21,15:46:12,Grad Student,33.76,Mediterranean,31,Yes,Yes
+470,2025-12-21,16:16:37,Greek Life,38.87,Mediterranean,29,No,No
+471,2025-12-21,17:12:54,Greek Life,34.04,Burgers,19,Yes,No
+472,2025-12-21,20:49:55,Dorm,21.92,Asian,26,No,Yes
+473,2025-12-21,20:54:58,Dorm,17.41,Pizza,32,No,Yes
+474,2025-12-22,11:15:40,Dorm,14.28,Salads,30,No,Yes
+475,2025-12-22,20:56:06,Grad Student,29.20,Asian,34,No,Yes
+476,2025-12-24,10:12:29,Grad Student,26.71,Mediterranean,27,Yes,Yes
+477,2025-12-24,11:39:54,Grad Student,20.60,Asian,37,Yes,No
+478,2025-12-24,13:59:09,Dorm,20.66,Pizza,20,No,Yes
+479,2025-12-24,15:05:49,Dorm,22.25,Burgers,34,No,Yes
+480,2025-12-24,20:14:16,Dorm,20.54,Asian,35,No,No
+481,2025-12-24,20:19:16,Grad Student,18.62,Asian,27,No,Yes
+482,2025-12-25,11:18:38,Dorm,18.30,Pizza,25,No,No
+483,2025-12-25,14:24:39,Grad Student,24.75,Burgers,40,Yes,No
+484,2025-12-25,17:22:41,Dorm,18.17,Pizza,37,No,Yes
+485,2025-12-26,10:09:30,Dorm,15.96,Asian,26,No,No
+486,2025-12-26,18:28:02,Greek Life,53.78,Mediterranean,28,Yes,No
+487,2025-12-27,11:57:34,Off-Campus,20.69,Mexican,41,No,No
+488,2025-12-27,13:03:23,Greek Life,19.54,Asian,24,No,No
+489,2025-12-28,16:41:54,Greek Life,44.54,Salads,29,No,Yes
+490,2025-12-28,17:33:09,Off-Campus,9.21,Mexican,34,No,No
+491,2025-12-28,17:54:30,Dorm,12.30,Indian,34,No,No
+492,2025-12-28,19:35:28,Greek Life,65.31,Mexican,43,No,No
+493,2025-12-28,19:39:17,Dorm,19.52,Pizza,30,No,No
+494,2025-12-29,19:58:22,Off-Campus,14.43,Pizza,31,No,Yes
+495,2025-12-30,10:55:46,Off-Campus,10.49,Pizza,16,No,Yes
+496,2025-12-30,17:47:59,Greek Life,40.17,Mexican,29,Yes,Yes
+497,2025-12-30,19:50:43,Dorm,14.39,Mediterranean,33,No,Yes
+498,2025-12-31,14:38:12,Dorm,10.61,Pizza,32,Yes,No
+499,2025-12-31,15:22:37,Grad Student,32.14,Salads,16,No,Yes
+500,2025-12-31,17:56:46,Dorm,13.85,Breakfast,17,Yes,No
+501,2026-01-01,13:21:51,Grad Student,37.79,Pizza,24,Yes,Yes
+502,2026-01-01,14:21:53,Off-Campus,14.08,Indian,39,No,No
+503,2026-01-01,14:26:06,Dorm,8.24,Burgers,28,No,Yes
+504,2026-01-01,18:13:34,Grad Student,21.64,Mexican,29,No,No
+505,2026-01-01,21:00:00,Off-Campus,18.93,Mexican,33,No,No
+506,2026-01-01,22:14:47,Off-Campus,16.40,Burgers,26,Yes,Yes
+507,2026-01-02,10:42:57,Off-Campus,24.27,Mexican,15,No,
+508,2026-01-02,17:09:54,Dorm,20.79,Mexican,32,No,
+509,2026-01-03,15:23:57,Greek Life,42.75,Asian,32,No,Yes
+510,2026-01-03,17:51:30,Dorm,17.15,Burgers,28,No,Yes
+511,2026-01-03,18:23:28,Dorm,16.83,Asian,25,Yes,Yes
+512,2026-01-03,19:30:29,Grad Student,30.23,Asian,25,No,Yes
+513,2026-01-04,17:50:19,Off-Campus,13.05,Asian,29,No,No
+514,2026-01-05,13:51:26,Grad Student,36.46,Mediterranean,19,No,No
+515,2026-01-05,18:57:07,Greek Life,42.93,Asian,25,No,No
+516,2026-01-05,19:54:16,Dorm,17.18,Pizza,30,No,Yes
+517,2026-01-06,12:39:42,Dorm,12.83,Salads,21,Yes,No
+518,2026-01-06,13:39:17,Dorm,10.12,Mexican,24,Yes,
+519,2026-01-06,14:26:19,Greek Life,38.50,Asian,41,No,
+520,2026-01-06,20:42:12,Off-Campus,16.50,Pizza,37,No,No
+521,2026-01-06,20:59:12,Off-Campus,15.59,Asian,27,Yes,Yes
+522,2026-01-07,11:01:46,Grad Student,32.17,Asian,30,No,No
+523,2026-01-07,12:00:29,Dorm,9.71,Salads,30,No,Yes
+524,2026-01-07,12:34:20,Dorm,15.96,Burgers,20,Yes,
+525,2026-01-08,13:16:58,Dorm,13.13,Breakfast,33,No,Yes
+526,2026-01-09,14:31:11,Off-Campus,21.04,Burgers,17,Yes,No
+527,2026-01-09,20:33:13,Off-Campus,15.70,Pizza,21,No,No
+528,2026-01-10,11:19:19,Dorm,11.02,Pizza,30,No,No
+529,2026-01-11,13:37:27,Grad Student,28.60,Salads,23,No,No
+530,2026-01-12,10:51:18,Dorm,14.71,Breakfast,32,No,No
+531,2026-01-12,14:18:55,Greek Life,42.90,Pizza,27,Yes,No
+532,2026-01-12,21:00:45,Dorm,5.00,Pizza,23,Yes,
+533,2026-01-13,14:22:43,Dorm,11.23,Pizza,38,No,No
+534,2026-01-13,18:20:53,Off-Campus,21.38,Pizza,29,Yes,
+535,2026-01-13,20:01:11,Grad Student,12.71,Indian,34,No,
+536,2026-01-14,19:16:10,Dorm,15.70,Pizza,24,No,Yes
+537,2026-01-15,16:15:46,Grad Student,21.34,Mexican,19,No,Yes
+538,2026-01-15,17:38:38,Off-Campus,28.33,Burgers,31,No,Yes
+539,2026-01-15,17:52:51,Off-Campus,22.92,Asian,26,No,No
+540,2026-01-16,13:55:27,Off-Campus,29.41,Asian,31,No,No
+541,2026-01-16,15:49:24,Dorm,15.37,Mexican,38,Yes,Yes
+542,2026-01-16,17:42:18,Dorm,17.28,Burgers,21,Yes,No
+543,2026-01-17,18:24:35,Off-Campus,11.74,Indian,38,No,Yes
+544,2026-01-18,15:39:03,Off-Campus,23.09,Pizza,25,No,No
+545,2026-01-18,16:38:24,Grad Student,28.34,Salads,33,No,No
+546,2026-01-18,17:12:18,Off-Campus,8.35,Salads,35,Yes,Yes
+547,2026-01-18,18:34:22,Greek Life,36.91,Breakfast,28,No,Yes
+548,2026-01-19,17:33:06,Greek Life,24.55,Pizza,34,No,Yes
+549,2026-01-19,17:36:30,Greek Life,44.36,Mexican,27,No,No
+550,2026-01-19,18:55:08,Off-Campus,15.17,Mexican,40,Yes,No
+551,2026-01-19,19:45:24,Grad Student,20.78,Burgers,34,Yes,No
+552,2026-01-19,21:16:10,Dorm,17.80,Mexican,32,Yes,No
+553,2026-01-20,13:41:08,Greek Life,62.91,Breakfast,31,No,
+554,2026-01-21,21:45:46,Dorm,16.58,Burgers,32,No,Yes
+555,2026-01-22,13:23:55,Dorm,17.92,Indian,34,No,No
+556,2026-01-22,15:20:31,Off-Campus,16.91,Burgers,28,Yes,No
+557,2026-01-22,17:40:41,Grad Student,34.29,Breakfast,35,Yes,No
+558,2026-01-22,20:45:58,Off-Campus,16.79,Pizza,33,No,Yes
+559,2026-01-22,21:47:37,Grad Student,27.29,Mediterranean,33,No,
+560,2026-01-23,11:40:17,Off-Campus,12.90,Indian,29,No,
+561,2026-01-23,18:29:53,Greek Life,42.83,Mexican,28,Yes,No
+562,2026-01-23,19:27:38,Grad Student,30.13,Mediterranean,26,No,No
+563,2026-01-23,20:39:22,Grad Student,22.06,Mediterranean,42,No,No
+564,2026-01-23,20:56:15,Off-Campus,10.23,Mexican,35,No,Yes
+565,2026-01-24,20:51:11,Grad Student,30.79,Asian,27,Yes,
+566,2026-01-25,11:28:34,Off-Campus,16.22,Asian,39,Yes,Yes
+567,2026-01-25,14:10:29,Off-Campus,14.59,Mediterranean,34,No,Yes
+568,2026-01-25,15:33:05,Greek Life,29.71,Burgers,29,No,No
+569,2026-01-25,19:35:10,Dorm,5.49,Pizza,36,Yes,No
+570,2026-01-25,20:45:41,Dorm,8.82,Asian,40,Yes,Yes
+571,2026-01-25,21:13:46,Dorm,19.34,Indian,32,Yes,Yes
+572,2026-01-26,11:51:39,Grad Student,34.24,Asian,30,No,Yes
+573,2026-01-26,17:02:21,Greek Life,65.83,Pizza,34,Yes,No
+574,2026-01-27,17:07:31,Off-Campus,12.28,Pizza,25,Yes,No
+575,2026-01-27,19:14:11,Grad Student,26.24,Mexican,30,No,Yes
+576,2026-01-28,12:56:02,Greek Life,62.31,Salads,37,Yes,No
+577,2026-01-28,14:34:14,Grad Student,44.38,Salads,30,No,No
+578,2026-01-28,18:26:15,Off-Campus,13.27,Burgers,27,No,Yes
+579,2026-01-29,10:26:19,Off-Campus,7.09,Indian,36,No,No
+580,2026-01-29,17:11:12,Off-Campus,12.47,Indian,30,Yes,No
+581,2026-01-29,17:35:17,Off-Campus,18.70,Asian,36,Yes,No
+582,2026-01-29,20:03:08,Dorm,24.57,Pizza,33,No,
+583,2026-01-29,22:29:50,Off-Campus,22.50,Pizza,15,No,No
+584,2026-01-30,12:17:09,Off-Campus,14.65,Mexican,16,No,No
+585,2026-01-30,18:20:04,Dorm,5.00,Pizza,24,No,No
+586,2026-01-30,19:06:02,Off-Campus,23.84,Burgers,34,No,Yes
+587,2026-01-30,19:54:27,Dorm,9.97,Burgers,23,Yes,Yes
+588,2026-01-30,20:07:37,Dorm,11.71,Pizza,26,No,Yes
+589,2026-02-01,12:43:42,Dorm,26.85,Burgers,25,No,No
+590,2026-02-02,15:53:37,Grad Student,24.02,Mexican,38,Yes,
+591,2026-02-03,10:10:36,Dorm,20.30,Burgers,37,No,No
+592,2026-02-03,11:18:04,Greek Life,53.45,Mediterranean,34,No,No
+593,2026-02-03,11:59:01,Grad Student,21.00,Asian,31,No,No
+594,2026-02-03,13:19:10,Off-Campus,15.14,Mediterranean,17,Yes,No
+595,2026-02-03,17:04:01,Dorm,16.17,Pizza,18,Yes,No
+596,2026-02-03,22:43:23,Dorm,22.06,Asian,53,Yes,No
+597,2026-02-04,14:31:43,Dorm,17.79,Mexican,31,No,No
+598,2026-02-04,16:11:10,Grad Student,28.78,Pizza,22,No,No
+599,2026-02-04,17:54:16,Off-Campus,18.90,Burgers,32,No,Yes
+600,2026-02-04,18:29:49,Grad Student,23.65,Pizza,27,Yes,No
+601,2026-02-04,20:38:47,Dorm,10.33,Burgers,48,No,No
+602,2026-02-04,21:04:19,Dorm,11.27,Salads,20,No,No
+603,2026-02-05,13:34:32,Greek Life,36.83,Mexican,40,Yes,No
+604,2026-02-05,16:58:59,Grad Student,17.00,Mediterranean,34,No,No
+605,2026-02-05,17:47:59,Dorm,17.13,Burgers,27,Yes,No
+606,2026-02-05,21:26:02,Grad Student,34.65,Salads,32,Yes,No
+607,2026-02-06,11:20:36,Off-Campus,20.72,Burgers,34,No,
+608,2026-02-06,19:52:54,Off-Campus,16.32,Mexican,25,No,
+609,2026-02-07,12:15:34,Off-Campus,22.31,Indian,35,No,Yes
+610,2026-02-07,15:14:49,Dorm,17.49,Pizza,33,No,No
+611,2026-02-07,15:47:26,Grad Student,28.91,Salads,25,No,No
+612,2026-02-07,17:44:36,Greek Life,52.05,Indian,31,No,Yes
+613,2026-02-07,18:15:09,Dorm,14.83,Indian,18,No,No
+614,2026-02-07,22:23:44,Off-Campus,13.45,Breakfast,26,Yes,Yes
+615,2026-02-08,16:31:17,Grad Student,28.11,Mediterranean,18,No,No
+616,2026-02-08,16:39:44,Dorm,17.69,Asian,23,No,Yes
+617,2026-02-08,19:07:29,Dorm,16.87,Mediterranean,32,No,Yes
+618,2026-02-08,19:32:43,Off-Campus,16.52,Asian,31,No,No
+619,2026-02-10,12:36:25,Grad Student,30.30,Indian,21,No,No
+620,2026-02-10,17:37:02,Dorm,17.98,Salads,35,No,No
+621,2026-02-10,18:30:22,Off-Campus,10.83,Pizza,36,Yes,
+622,2026-02-10,18:39:59,Dorm,17.96,Pizza,37,Yes,No
+623,2026-02-11,10:30:58,Dorm,11.26,Mexican,38,No,No
+624,2026-02-11,12:01:47,Off-Campus,19.40,Indian,25,Yes,Yes
+625,2026-02-12,11:54:47,Dorm,25.25,Burgers,24,Yes,No
+626,2026-02-12,12:34:10,Dorm,12.76,Pizza,29,No,No
+627,2026-02-12,17:25:53,Greek Life,44.94,Pizza,26,No,No
+628,2026-02-12,22:57:56,Dorm,14.30,Breakfast,43,No,Yes
+629,2026-02-13,12:40:29,Greek Life,45.82,Mediterranean,30,No,No
+630,2026-02-13,18:28:22,Dorm,16.27,Mexican,31,No,No
+631,2026-02-14,11:01:18,Off-Campus,21.62,Asian,29,Yes,No
+632,2026-02-14,19:03:18,Dorm,13.34,Pizza,40,Yes,No
+633,2026-02-14,19:26:11,Dorm,8.35,Mediterranean,26,Yes,Yes
+634,2026-02-14,19:26:22,Grad Student,31.91,Asian,32,No,
+635,2026-02-14,20:42:48,Dorm,6.13,Mexican,26,No,No
+636,2026-02-15,12:45:33,Greek Life,37.49,Burgers,32,No,No
+637,2026-02-15,18:57:50,Greek Life,38.64,Burgers,42,No,No
+638,2026-02-15,20:27:41,Greek Life,52.69,Burgers,27,Yes,Yes
+639,2026-02-16,10:04:38,Off-Campus,17.82,Mexican,21,No,No
+640,2026-02-16,12:44:25,Dorm,12.25,Mexican,20,No,Yes
+641,2026-02-16,13:29:27,Dorm,22.13,Asian,40,No,No
+642,2026-02-16,13:59:02,Greek Life,56.77,Pizza,32,Yes,No
+643,2026-02-16,14:35:54,Off-Campus,24.30,Asian,25,Yes,
+644,2026-02-16,17:40:52,Dorm,15.85,Pizza,24,Yes,
+645,2026-02-16,19:24:36,Dorm,10.47,Salads,36,Yes,Yes
+646,2026-02-17,12:38:46,Off-Campus,21.17,Asian,19,Yes,
+647,2026-02-17,19:25:42,Dorm,6.87,Asian,43,No,No
+648,2026-02-18,19:28:39,Grad Student,19.92,Mediterranean,38,No,Yes
+649,2026-02-18,20:30:35,Grad Student,32.07,Asian,23,No,No
+650,2026-02-19,13:48:00,Dorm,7.98,Breakfast,28,Yes,Yes
+651,2026-02-19,15:27:13,Dorm,13.97,Indian,32,No,No
+652,2026-02-19,18:13:19,Dorm,6.07,Breakfast,32,Yes,No
+653,2026-02-19,20:09:13,Dorm,19.46,Burgers,27,Yes,No
+654,2026-02-19,20:17:00,Greek Life,43.55,Burgers,19,No,No
+655,2026-02-20,13:39:57,Greek Life,61.33,Indian,46,Yes,No
+656,2026-02-21,15:07:41,Dorm,13.13,Pizza,25,No,Yes
+657,2026-02-21,16:43:26,Off-Campus,19.16,Asian,24,No,No
+658,2026-02-21,18:00:25,Off-Campus,19.32,Mexican,36,Yes,No
+659,2026-02-21,18:58:05,Greek Life,53.87,Mediterranean,29,Yes,Yes
+660,2026-02-21,22:50:01,Grad Student,41.02,Asian,35,Yes,
+661,2026-02-22,15:50:29,Off-Campus,20.19,Asian,40,Yes,No
+662,2026-02-22,17:07:24,Greek Life,34.93,Burgers,37,Yes,Yes
+663,2026-02-22,18:45:54,Dorm,11.01,Pizza,33,No,Yes
+664,2026-02-22,20:31:32,Grad Student,24.84,Pizza,42,Yes,No
+665,2026-02-22,22:56:45,Dorm,17.45,Burgers,36,No,No
+666,2026-02-23,10:20:34,Grad Student,17.59,Breakfast,35,No,Yes
+667,2026-02-23,12:18:47,Dorm,12.62,Indian,30,No,Yes
+668,2026-02-23,17:34:55,Dorm,15.42,Pizza,38,No,No
+669,2026-02-24,15:13:09,Grad Student,30.81,Asian,33,No,Yes
+670,2026-02-25,10:16:31,Greek Life,52.62,Pizza,27,No,No
+671,2026-02-25,12:56:58,Grad Student,32.61,Indian,35,No,
+672,2026-02-25,13:34:36,Dorm,17.19,Pizza,18,No,Yes
+673,2026-02-25,18:39:19,Grad Student,22.10,Mexican,36,No,No
+674,2026-02-26,11:26:23,Greek Life,56.18,Breakfast,43,No,No
+675,2026-02-27,10:41:21,Off-Campus,14.11,Mexican,33,No,No
+676,2026-02-27,11:33:18,Grad Student,21.37,Asian,36,No,
+677,2026-02-27,12:15:05,Off-Campus,17.26,Mediterranean,30,No,Yes
+678,2026-02-27,15:13:55,Dorm,22.73,Mexican,20,No,Yes
+679,2026-02-27,15:17:59,Off-Campus,12.11,Indian,20,No,No
+680,2026-02-27,17:53:47,Off-Campus,11.77,Mediterranean,16,No,No
+681,2026-02-28,12:30:47,Dorm,7.63,Mexican,37,No,No
+682,2026-02-28,19:10:01,Off-Campus,16.66,Mexican,30,No,Yes
+683,2026-02-28,19:41:10,Off-Campus,17.73,Asian,39,Yes,Yes
+684,2026-03-01,12:59:12,Off-Campus,14.67,Pizza,32,Yes,Yes
+685,2026-03-01,19:22:43,Grad Student,34.13,Indian,41,Yes,
+686,2026-03-02,10:33:12,Grad Student,27.03,Pizza,22,No,No
+687,2026-03-02,18:57:36,Grad Student,36.25,Mediterranean,34,No,Yes
+688,2026-03-03,12:24:46,Greek Life,41.20,Mexican,16,No,No
+689,2026-03-03,16:16:55,Dorm,12.78,Pizza,23,No,
+690,2026-03-03,18:11:12,Off-Campus,21.23,Salads,37,No,Yes
+691,2026-03-03,18:27:49,Dorm,19.37,Burgers,27,No,
+692,2026-03-03,18:58:31,Off-Campus,10.81,Pizza,36,No,No
+693,2026-03-03,20:43:07,Off-Campus,12.48,Salads,40,No,No
+694,2026-03-03,21:10:21,Grad Student,23.34,Pizza,39,No,No
+695,2026-03-04,14:07:22,Grad Student,38.73,Burgers,38,Yes,Yes
+696,2026-03-04,16:12:31,Grad Student,20.47,Asian,32,No,
+697,2026-03-05,11:52:01,Dorm,14.03,Pizza,26,No,Yes
+698,2026-03-05,12:03:19,Dorm,11.33,Pizza,25,Yes,
+699,2026-03-05,14:16:59,Dorm,12.07,Asian,28,No,No
+700,2026-03-05,15:56:27,Dorm,16.30,Salads,38,No,No
+701,2026-03-05,17:21:59,Greek Life,49.27,Burgers,37,No,No
+702,2026-03-05,20:47:04,Greek Life,26.11,Pizza,40,No,No
+703,2026-03-05,22:13:46,Dorm,19.43,Mexican,34,Yes,No
+704,2026-03-06,19:37:12,Off-Campus,10.40,Burgers,30,Yes,Yes
+705,2026-03-07,13:33:04,Grad Student,20.56,Pizza,32,No,Yes
+706,2026-03-07,13:53:56,Dorm,13.34,Asian,29,No,No
+707,2026-03-07,14:23:34,Off-Campus,26.69,Mexican,29,No,No
+708,2026-03-07,21:40:32,Off-Campus,17.79,Mediterranean,37,No,No
+709,2026-03-08,19:51:47,Off-Campus,14.40,Salads,35,Yes,
+710,2026-03-09,19:54:35,Dorm,15.08,Pizza,35,Yes,
+711,2026-03-10,11:43:35,Off-Campus,22.11,Mexican,42,Yes,No
+712,2026-03-10,11:50:09,Greek Life,56.04,Pizza,37,No,Yes
+713,2026-03-10,16:54:17,Dorm,17.23,Pizza,39,No,No
+714,2026-03-10,18:45:24,Dorm,11.63,Burgers,29,No,Yes
+715,2026-03-10,19:19:37,Dorm,20.84,Pizza,22,No,Yes
+716,2026-03-11,10:51:47,Dorm,20.80,Indian,29,No,No
+717,2026-03-11,12:16:24,Grad Student,41.01,Pizza,25,Yes,Yes
+718,2026-03-11,14:01:01,Dorm,19.33,Burgers,24,No,Yes
+719,2026-03-11,14:06:30,Off-Campus,18.33,Pizza,36,No,No
+720,2026-03-11,17:29:33,Off-Campus,16.46,Pizza,34,No,
+721,2026-03-11,20:01:55,Greek Life,34.41,Pizza,29,No,Yes
+722,2026-03-12,11:49:32,Off-Campus,26.17,Asian,31,No,Yes
+723,2026-03-12,14:37:53,Off-Campus,16.48,Mediterranean,30,No,Yes
+724,2026-03-12,20:40:27,Grad Student,34.01,Breakfast,35,No,No
+725,2026-03-13,10:53:43,Off-Campus,15.28,Asian,25,No,Yes
+726,2026-03-13,12:11:15,Greek Life,69.46,Pizza,27,No,No
+727,2026-03-13,12:14:55,Greek Life,31.72,Pizza,24,No,No
+728,2026-03-14,17:29:56,Off-Campus,18.36,Burgers,28,Yes,Yes
+729,2026-03-14,19:00:25,Dorm,15.63,Mexican,33,Yes,No
+730,2026-03-15,10:39:18,Dorm,13.44,Pizza,27,No,Yes
+731,2026-03-15,11:37:58,Grad Student,20.72,Indian,15,No,No
+732,2026-03-15,11:45:51,Greek Life,41.47,Burgers,30,No,Yes
+733,2026-03-15,15:46:55,Dorm,20.27,Burgers,36,Yes,Yes
+734,2026-03-15,19:51:31,Grad Student,24.19,Burgers,36,Yes,Yes
+735,2026-03-15,20:19:39,Off-Campus,20.68,Mediterranean,21,No,No
+736,2026-03-16,11:43:11,Dorm,6.83,Mexican,38,No,No
+737,2026-03-16,13:22:04,Greek Life,54.57,Mexican,25,No,No
+738,2026-03-16,20:37:15,Grad Student,29.74,Salads,39,Yes,
+739,2026-03-17,13:29:08,Dorm,20.29,Asian,28,No,Yes
+740,2026-03-17,15:37:31,Grad Student,11.59,Mediterranean,12,No,Yes
+741,2026-03-17,17:17:03,Grad Student,23.30,Pizza,38,Yes,No
+742,2026-03-17,17:18:29,Greek Life,21.83,Mexican,36,Yes,No
+743,2026-03-17,17:35:04,Greek Life,58.50,Mexican,26,No,No
+744,2026-03-17,20:11:20,Off-Campus,16.57,Asian,22,No,No
+745,2026-03-18,10:43:06,Dorm,15.13,Salads,39,No,Yes
+746,2026-03-18,12:28:12,Grad Student,16.51,Asian,19,No,Yes
+747,2026-03-18,13:01:36,Off-Campus,20.49,Pizza,15,No,No
+748,2026-03-18,17:38:54,Dorm,13.08,Mexican,32,Yes,Yes
+749,2026-03-19,11:33:49,Greek Life,34.76,Pizza,27,No,No
+750,2026-03-19,18:03:15,Dorm,6.46,Indian,29,No,Yes
+751,2026-03-20,10:57:52,Grad Student,30.43,Pizza,26,Yes,No
+752,2026-03-20,13:14:31,Grad Student,26.69,Asian,36,Yes,Yes
+753,2026-03-20,17:40:28,Off-Campus,16.14,Pizza,29,Yes,No
+754,2026-03-20,17:52:35,Dorm,17.05,Mexican,31,No,Yes
+755,2026-03-20,18:14:31,Dorm,16.21,Asian,30,No,Yes
+756,2026-03-20,20:24:13,Off-Campus,19.72,Asian,29,No,No
+757,2026-03-20,21:07:09,Off-Campus,19.96,Burgers,28,No,Yes
+758,2026-03-21,11:48:39,Grad Student,15.27,Asian,23,Yes,No
+759,2026-03-21,13:39:50,Grad Student,21.43,Asian,25,No,No
+760,2026-03-21,19:36:32,Greek Life,30.81,Mediterranean,30,No,No
+761,2026-03-21,20:07:31,Dorm,10.35,Burgers,23,No,No
+762,2026-03-22,10:07:25,Dorm,7.75,Pizza,41,No,
+763,2026-03-22,13:06:25,Grad Student,26.34,Indian,28,Yes,No
+764,2026-03-22,19:46:47,Grad Student,24.49,Salads,36,No,Yes
+765,2026-03-22,20:14:57,Off-Campus,13.06,Breakfast,35,No,No
+766,2026-03-23,13:46:29,Grad Student,27.35,Salads,22,No,No
+767,2026-03-23,13:50:49,Greek Life,41.93,Pizza,21,No,No
+768,2026-03-23,15:25:39,Grad Student,33.07,Asian,18,Yes,Yes
+769,2026-03-23,18:42:20,Greek Life,38.75,Mexican,37,Yes,No
+770,2026-03-23,19:43:35,Greek Life,46.56,Asian,30,No,No
+771,2026-03-23,20:05:05,Dorm,23.72,Asian,36,No,No
+772,2026-03-23,20:40:17,Grad Student,26.37,Breakfast,30,No,Yes
+773,2026-03-23,20:54:31,Off-Campus,17.45,Mexican,21,Yes,No
+774,2026-03-23,21:45:03,Dorm,19.33,Asian,27,No,
+775,2026-03-24,12:16:40,Grad Student,23.40,Salads,30,No,No
+776,2026-03-24,14:48:08,Grad Student,19.22,Mexican,30,No,Yes
+777,2026-03-24,21:13:55,Off-Campus,24.85,Burgers,33,Yes,
+778,2026-03-25,10:09:07,Dorm,12.57,Mediterranean,42,No,No
+779,2026-03-25,12:21:18,Grad Student,24.05,Asian,30,No,No
+780,2026-03-25,12:26:43,Dorm,18.02,Burgers,38,Yes,
+781,2026-03-25,12:50:25,Dorm,22.88,Mediterranean,26,Yes,No
+782,2026-03-25,18:08:51,Dorm,5.92,Indian,37,No,No
+783,2026-03-26,11:42:30,Greek Life,34.44,Mexican,12,No,No
+784,2026-03-26,12:58:36,Grad Student,32.64,Mediterranean,25,No,No
+785,2026-03-26,17:13:14,Off-Campus,22.33,Burgers,25,Yes,Yes
+786,2026-03-27,17:08:48,Dorm,19.22,Burgers,34,No,No
+787,2026-03-27,17:50:17,Dorm,16.83,Pizza,29,Yes,Yes
+788,2026-03-28,10:17:07,Dorm,12.86,Burgers,23,No,Yes
+789,2026-03-28,13:00:31,Dorm,18.16,Burgers,18,No,Yes
+790,2026-03-28,14:05:19,Greek Life,46.84,Asian,26,Yes,No
+791,2026-03-28,18:46:47,Greek Life,48.18,Mexican,35,No,No
+792,2026-04-01,10:52:20,Off-Campus,22.70,Pizza,31,No,Yes
+793,2026-04-01,12:12:05,Grad Student,12.28,Asian,27,No,
+794,2026-04-01,12:49:12,Dorm,18.93,Pizza,27,Yes,No
+795,2026-04-01,19:00:24,Dorm,15.74,Mexican,35,Yes,Yes
+796,2026-04-02,11:30:42,Dorm,17.25,Asian,30,No,Yes
+797,2026-04-02,13:47:20,Dorm,16.20,Breakfast,38,Yes,No
+798,2026-04-02,19:27:38,Off-Campus,17.58,Burgers,23,No,Yes
+799,2026-04-02,20:10:23,Dorm,19.01,Mexican,29,No,No
+800,2026-04-02,22:45:49,Off-Campus,18.04,Mediterranean,40,Yes,No
+801,2026-04-03,15:38:34,Grad Student,33.47,Asian,39,No,Yes
+802,2026-04-03,17:46:15,Dorm,17.54,Pizza,29,No,No
+803,2026-04-03,20:12:09,Off-Campus,18.40,Indian,30,No,Yes
+804,2026-04-03,20:58:45,Greek Life,45.15,Mediterranean,19,No,Yes
+805,2026-04-03,21:11:27,Greek Life,30.06,Mediterranean,28,Yes,Yes
+806,2026-04-04,12:48:00,Off-Campus,13.52,Pizza,19,Yes,Yes
+807,2026-04-04,18:24:06,Dorm,15.47,Asian,26,No,No
+808,2026-04-04,18:24:27,Greek Life,42.88,Pizza,26,No,No
+809,2026-04-05,15:04:35,Grad Student,26.79,Indian,37,No,
+810,2026-04-05,18:06:25,Greek Life,69.43,Burgers,31,No,Yes
+811,2026-04-05,18:47:42,Off-Campus,23.47,Pizza,19,No,No
+812,2026-04-05,20:00:22,Grad Student,35.19,Pizza,23,Yes,Yes
+813,2026-04-06,11:34:42,Greek Life,66.64,Salads,28,Yes,Yes
+814,2026-04-07,11:37:35,Greek Life,59.58,Burgers,16,Yes,Yes
+815,2026-04-07,17:14:56,Dorm,22.02,Mexican,38,No,
+816,2026-04-07,17:15:02,Grad Student,29.24,Salads,35,No,Yes
+817,2026-04-07,17:16:07,Grad Student,26.04,Mediterranean,26,No,Yes
+818,2026-04-07,17:53:40,Off-Campus,20.70,Mediterranean,21,No,Yes
+819,2026-04-07,17:56:59,Dorm,16.25,Mexican,23,No,Yes
+820,2026-04-08,13:17:40,Grad Student,25.60,Pizza,30,No,
+821,2026-04-08,15:21:15,Off-Campus,18.46,Indian,32,No,No
+822,2026-04-08,17:08:23,Grad Student,22.30,Asian,30,No,No
+823,2026-04-08,18:19:18,Off-Campus,6.38,Burgers,22,No,No
+824,2026-04-09,10:33:45,Grad Student,36.44,Asian,21,No,Yes
+825,2026-04-09,11:07:05,Dorm,11.76,Pizza,38,No,Yes
+826,2026-04-09,12:23:19,Off-Campus,11.05,Mexican,41,Yes,No
+827,2026-04-09,21:05:07,Dorm,10.73,Asian,30,No,Yes
+828,2026-04-10,13:00:43,Grad Student,13.80,Asian,26,No,No
+829,2026-04-12,12:13:37,Grad Student,16.09,Burgers,40,No,No
+830,2026-04-12,19:35:17,Dorm,7.52,Pizza,21,No,Yes
+831,2026-04-12,20:59:27,Off-Campus,17.66,Pizza,25,No,No
+832,2026-04-12,22:58:31,Off-Campus,11.88,Salads,16,No,
+833,2026-04-13,10:10:12,Greek Life,48.45,Salads,12,No,No
+834,2026-04-13,10:23:24,Grad Student,17.00,Mediterranean,31,No,
+835,2026-04-13,12:27:32,Grad Student,21.23,Burgers,25,No,No
+836,2026-04-13,14:22:27,Off-Campus,29.05,Asian,24,No,Yes
+837,2026-04-13,17:19:03,Dorm,12.54,Burgers,28,No,No
+838,2026-04-14,10:09:34,Dorm,16.82,Burgers,39,No,No
+839,2026-04-14,11:01:14,Greek Life,39.92,Mediterranean,32,Yes,Yes
+840,2026-04-14,18:30:31,Greek Life,12.00,Indian,28,No,No
+841,2026-04-14,19:13:32,Off-Campus,19.12,Mexican,30,No,Yes
+842,2026-04-14,20:06:45,Greek Life,12.00,Indian,25,Yes,No
+843,2026-04-15,15:08:17,Greek Life,37.31,Pizza,41,No,No
+844,2026-04-15,17:58:27,Greek Life,57.39,Breakfast,33,No,
+845,2026-04-15,18:11:12,Greek Life,53.11,Salads,32,Yes,Yes
+846,2026-04-16,11:00:47,Dorm,11.94,Breakfast,25,No,No
+847,2026-04-16,12:41:03,Dorm,13.81,Burgers,35,No,Yes
+848,2026-04-16,18:01:37,Dorm,9.74,Burgers,26,No,Yes
+849,2026-04-17,10:10:28,Grad Student,27.03,Salads,23,No,Yes
+850,2026-04-17,10:42:56,Off-Campus,14.82,Asian,34,No,Yes
+851,2026-04-17,12:49:07,Dorm,24.50,Pizza,13,No,No
+852,2026-04-17,20:09:40,Dorm,14.42,Pizza,25,No,No
+853,2026-04-17,22:42:34,Dorm,9.45,Mexican,33,No,Yes
+854,2026-04-18,10:29:10,Greek Life,69.78,Mexican,19,No,Yes
+855,2026-04-18,11:02:34,Off-Campus,18.10,Pizza,32,No,Yes
+856,2026-04-18,11:26:57,Off-Campus,14.61,Pizza,26,No,Yes
+857,2026-04-18,13:26:04,Dorm,14.07,Breakfast,33,No,No
+858,2026-04-18,14:04:42,Dorm,15.58,Pizza,20,No,Yes
+859,2026-04-18,15:54:45,Off-Campus,20.36,Mediterranean,32,No,Yes
+860,2026-04-18,16:31:04,Dorm,9.08,Mexican,29,No,No
+861,2026-04-19,13:30:18,Off-Campus,20.74,Salads,27,Yes,Yes
+862,2026-04-19,18:32:37,Off-Campus,17.77,Pizza,29,No,Yes
+863,2026-04-20,11:55:33,Grad Student,35.74,Mediterranean,21,Yes,Yes
+864,2026-04-20,12:10:43,Grad Student,37.76,Indian,25,Yes,Yes
+865,2026-04-20,13:10:05,Off-Campus,16.70,Burgers,37,No,No
+866,2026-04-20,13:17:44,Dorm,15.03,Asian,25,No,No
+867,2026-04-21,10:52:13,Off-Campus,17.74,Burgers,30,No,Yes
+868,2026-04-21,12:10:56,Off-Campus,20.20,Mexican,36,Yes,
+869,2026-04-21,13:29:43,Off-Campus,20.27,Mexican,34,No,Yes
+870,2026-04-21,14:45:28,Greek Life,50.23,Mexican,29,No,No
+871,2026-04-21,16:10:26,Grad Student,29.65,Salads,25,No,Yes
+872,2026-04-21,19:36:08,Grad Student,29.06,Indian,31,No,No
+873,2026-04-22,17:22:55,Greek Life,43.34,Asian,33,No,No
+874,2026-04-23,10:08:30,Off-Campus,22.11,Pizza,18,Yes,
+875,2026-04-23,10:18:02,Off-Campus,19.70,Breakfast,29,Yes,No
+876,2026-04-23,12:45:01,Greek Life,60.75,Breakfast,44,No,Yes
+877,2026-04-23,16:11:12,Off-Campus,24.68,Mexican,30,Yes,Yes
+878,2026-04-23,18:21:11,Greek Life,29.57,Burgers,19,No,Yes
+879,2026-04-23,22:06:08,Dorm,11.45,Indian,41,Yes,Yes
+880,2026-04-23,22:45:37,Dorm,16.82,Breakfast,30,No,Yes
+881,2026-04-24,11:12:26,Dorm,11.74,Indian,28,No,No
+882,2026-04-24,12:44:34,Greek Life,45.98,Mediterranean,25,No,No
+883,2026-04-24,17:49:29,Dorm,19.31,Burgers,22,No,Yes
+884,2026-04-24,18:57:30,Dorm,17.37,Pizza,32,No,No
+885,2026-04-25,12:30:48,Grad Student,23.14,Asian,36,No,No
+886,2026-04-25,14:08:15,Greek Life,47.19,Breakfast,25,No,Yes
+887,2026-04-25,14:17:47,Off-Campus,20.09,Mediterranean,41,Yes,No
+888,2026-04-25,20:41:18,Dorm,14.71,Burgers,26,No,Yes
+889,2026-04-25,22:08:07,Off-Campus,26.56,Pizza,27,No,
+890,2026-04-26,20:30:37,Off-Campus,18.48,Mexican,31,Yes,Yes
+891,2026-04-27,18:39:13,Grad Student,33.43,Asian,27,Yes,
+892,2026-04-27,22:10:07,Greek Life,50.79,Burgers,47,Yes,Yes
+893,2026-04-28,11:35:25,Off-Campus,14.07,Breakfast,39,No,No
+894,2026-04-28,14:44:47,Off-Campus,27.47,Pizza,35,No,No
+895,2026-04-28,18:52:28,Off-Campus,18.73,Mexican,35,No,Yes
+896,2026-04-28,19:11:28,Dorm,13.87,Asian,28,No,
+897,2026-04-28,20:40:53,Dorm,15.80,Breakfast,36,Yes,Yes
+898,2026-04-29,13:44:11,Greek Life,59.06,Burgers,30,Yes,No
+899,2026-04-29,18:59:34,Grad Student,21.56,Salads,24,No,No
+900,2026-04-30,10:49:41,Dorm,16.54,Burgers,33,No,No
+901,2026-04-30,11:39:12,Greek Life,49.26,Asian,31,No,Yes
+902,2026-04-30,20:03:22,Greek Life,59.32,Burgers,30,Yes,No
+903,2026-04-30,20:06:46,Dorm,7.85,Salads,28,No,Yes
+904,2026-05-01,11:53:51,Dorm,14.72,Burgers,33,No,
+905,2026-05-01,12:59:53,Grad Student,29.91,Pizza,41,No,Yes
+906,2026-05-02,11:37:00,Grad Student,31.66,Indian,41,No,No
+907,2026-05-02,12:32:14,Dorm,15.20,Burgers,24,No,Yes
+908,2026-05-02,15:02:17,Dorm,15.96,Pizza,32,No,No
+909,2026-05-02,22:15:04,Dorm,14.46,Indian,29,No,Yes
+910,2026-05-03,11:36:53,Grad Student,31.55,Burgers,26,No,No
+911,2026-05-03,12:45:05,Grad Student,21.98,Asian,41,No,No
+912,2026-05-03,17:47:46,Grad Student,35.25,Mediterranean,36,No,No
+913,2026-05-04,12:07:22,Grad Student,45.19,Asian,27,No,No
+914,2026-05-04,21:46:57,Off-Campus,10.95,Indian,43,Yes,Yes
+915,2026-05-04,22:27:23,Off-Campus,23.98,Mexican,38,No,No
+916,2026-05-05,12:07:57,Grad Student,31.29,Burgers,36,No,Yes
+917,2026-05-05,17:21:26,Off-Campus,25.71,Asian,25,No,
+918,2026-05-05,17:29:51,Greek Life,58.18,Indian,22,Yes,No
+919,2026-05-06,15:49:27,Dorm,19.25,Burgers,36,No,No
+920,2026-05-06,19:33:10,Greek Life,51.92,Salads,31,No,No
+921,2026-05-06,19:51:37,Off-Campus,26.48,Burgers,39,No,Yes
+922,2026-05-06,22:37:26,Dorm,15.73,Mexican,43,No,Yes
+923,2026-05-07,12:43:18,Grad Student,31.77,Asian,41,No,Yes
+924,2026-05-07,18:38:24,Off-Campus,21.72,Burgers,35,No,Yes
+925,2026-05-07,19:12:35,Dorm,21.09,Pizza,45,Yes,Yes
+926,2026-05-08,11:08:06,Dorm,26.94,Mediterranean,29,Yes,
+927,2026-05-08,17:22:04,Greek Life,72.41,Mexican,27,Yes,No
+928,2026-05-08,20:12:39,Greek Life,43.12,Salads,20,No,No
+929,2026-05-08,20:33:36,Grad Student,32.13,Burgers,17,Yes,Yes
+930,2026-05-09,15:41:59,Grad Student,32.29,Mediterranean,33,Yes,Yes
+931,2026-05-09,17:28:53,Off-Campus,25.43,Mexican,22,No,
+932,2026-05-09,18:30:09,Grad Student,26.09,Pizza,25,No,No
+933,2026-05-09,19:55:45,Dorm,13.52,Pizza,32,No,Yes
+934,2026-05-10,11:38:17,Grad Student,21.97,Asian,28,No,No
+935,2026-05-10,14:03:17,Grad Student,34.21,Pizza,25,No,Yes
+936,2026-05-10,14:03:31,Dorm,16.36,Mexican,37,Yes,Yes
+937,2026-05-10,17:05:51,Grad Student,31.58,Pizza,27,No,
+938,2026-05-10,21:44:31,Grad Student,25.42,Asian,24,No,No
+939,2026-05-11,12:10:04,Dorm,17.20,Pizza,37,Yes,Yes
+940,2026-05-11,13:50:20,Dorm,22.65,Burgers,25,No,Yes
+941,2026-05-11,15:45:29,Grad Student,22.39,Pizza,19,Yes,Yes
+942,2026-05-11,18:21:56,Dorm,18.23,Asian,26,No,No
+943,2026-05-11,18:22:15,Dorm,23.91,Burgers,35,No,Yes
+944,2026-05-12,11:12:58,Greek Life,73.44,Breakfast,27,No,No
+945,2026-05-12,16:18:17,Dorm,20.57,Indian,26,No,Yes
+946,2026-05-12,17:10:33,Greek Life,55.57,Pizza,14,Yes,
+947,2026-05-12,18:17:06,Dorm,21.39,Salads,34,No,Yes
+948,2026-05-12,18:58:07,Greek Life,67.36,Indian,32,No,Yes
+949,2026-05-12,20:02:57,Dorm,16.42,Pizza,20,No,No
+950,2026-05-12,21:25:06,Grad Student,28.53,Pizza,30,No,
+951,2026-05-13,22:51:10,Off-Campus,21.30,Pizza,31,No,Yes
+952,2026-05-14,10:13:03,Grad Student,30.36,Salads,31,No,Yes
+953,2026-05-14,10:17:05,Off-Campus,7.32,Pizza,27,Yes,Yes
+954,2026-05-14,10:17:09,Dorm,30.29,Pizza,42,No,Yes
+955,2026-05-14,11:09:50,Greek Life,41.43,Indian,39,No,No
+956,2026-05-14,12:29:07,Grad Student,29.04,Asian,30,No,No
+957,2026-05-14,12:32:27,Dorm,16.51,Burgers,30,Yes,No
+958,2026-05-14,15:50:41,Dorm,16.75,Pizza,25,No,
+959,2026-05-14,19:08:51,Off-Campus,31.59,Asian,25,No,No
+960,2026-05-14,19:10:12,Greek Life,49.69,Mexican,36,No,No
+961,2026-05-15,12:19:45,Dorm,15.27,Mexican,37,No,No
+962,2026-05-15,16:40:53,Off-Campus,24.04,Pizza,31,No,No
+963,2026-05-15,17:19:25,Greek Life,49.39,Burgers,30,No,No
+964,2026-05-15,19:39:35,Off-Campus,18.82,Burgers,25,No,
+965,2026-05-15,19:49:35,Greek Life,52.37,Mexican,40,Yes,No
+966,2026-05-15,19:52:20,Grad Student,23.14,Asian,23,No,No
+967,2026-05-15,20:26:26,Off-Campus,10.29,Pizza,34,No,
+968,2026-05-15,20:55:04,Off-Campus,18.63,Mexican,28,Yes,Yes
+969,2026-05-16,10:15:51,Dorm,16.07,Burgers,24,No,No
+970,2026-05-16,11:09:49,Grad Student,36.05,Breakfast,24,No,
+971,2026-05-16,11:42:13,Dorm,13.65,Asian,31,No,No
+972,2026-05-16,12:05:19,Greek Life,68.25,Burgers,30,No,No
+973,2026-05-16,13:06:37,Dorm,11.33,Burgers,30,No,
+974,2026-05-16,17:18:10,Off-Campus,24.23,Indian,36,Yes,No
+975,2026-05-16,18:07:04,Dorm,24.12,Pizza,30,Yes,No
+976,2026-05-16,20:19:44,Off-Campus,26.80,Mexican,29,No,No
+977,2026-05-16,20:55:15,Dorm,16.65,Pizza,30,No,Yes
+978,2026-05-17,12:53:27,Off-Campus,16.64,Mexican,17,No,No
+979,2026-05-17,13:31:08,Off-Campus,22.24,Indian,40,No,No
+980,2026-05-17,14:09:26,Dorm,22.09,Pizza,22,No,No
+981,2026-05-17,17:27:50,Dorm,6.65,Salads,35,Yes,No
+982,2026-05-18,16:49:51,Dorm,19.73,Mexican,18,Yes,No
+983,2026-05-19,17:14:24,Grad Student,37.32,Asian,23,No,No
+984,2026-05-19,21:29:59,Off-Campus,19.04,Burgers,28,No,
+985,2026-05-20,10:51:55,Dorm,15.21,Mexican,22,No,No
+986,2026-05-20,12:36:30,Dorm,14.72,Pizza,17,No,No
+987,2026-05-20,15:17:44,Dorm,19.18,Asian,33,Yes,No
+988,2026-05-20,17:42:04,Dorm,27.42,Pizza,38,No,No
+989,2026-05-20,20:12:04,Grad Student,29.27,Asian,34,No,Yes
+990,2026-05-20,21:40:28,Off-Campus,11.95,Mexican,30,No,No
+991,2026-05-21,13:10:32,Off-Campus,12.97,Mexican,29,No,No
+992,2026-05-21,16:00:58,Dorm,15.68,Breakfast,31,Yes,No
+993,2026-05-21,21:20:13,Greek Life,59.28,Pizza,31,No,No
+994,2026-05-22,13:03:47,Greek Life,61.70,Mexican,19,Yes,
+995,2026-05-22,16:17:25,Dorm,24.38,Mexican,37,Yes,No
+996,2026-05-22,17:42:19,Grad Student,41.65,Indian,32,No,Yes
+997,2026-05-22,18:44:20,Grad Student,22.17,Mediterranean,25,No,
+998,2026-05-22,20:04:58,Off-Campus,24.06,Breakfast,23,No,No
+999,2026-05-22,20:09:40,Grad Student,33.83,Salads,31,Yes,No
+1000,2026-05-23,13:27:35,Off-Campus,24.48,Indian,36,No,Yes
+1001,2026-05-23,17:11:41,Dorm,21.82,Asian,38,No,Yes
+1002,2026-05-23,17:35:50,Grad Student,33.66,Mediterranean,27,No,No
+1003,2026-05-24,10:38:53,Dorm,24.11,Asian,35,No,Yes
+1004,2026-05-24,11:04:03,Dorm,19.99,Pizza,33,No,Yes
+1005,2026-05-24,11:42:06,Dorm,11.21,Burgers,30,Yes,No
+1006,2026-05-24,11:57:29,Greek Life,58.11,Mediterranean,32,No,No
+1007,2026-05-24,16:46:20,Greek Life,82.46,Breakfast,31,No,No
+1008,2026-05-25,11:06:19,Grad Student,32.10,Mexican,24,No,No
+1009,2026-05-25,14:34:38,Dorm,22.35,Mediterranean,22,No,
+1010,2026-05-26,17:59:44,Off-Campus,23.62,Salads,26,Yes,Yes
+1011,2026-05-27,14:15:44,Grad Student,18.93,Indian,34,Yes,Yes
+1012,2026-05-27,22:31:13,Dorm,19.45,Mexican,34,No,Yes
+1013,2026-05-28,18:05:45,Dorm,16.07,Pizza,53,No,
+1014,2026-05-28,19:25:39,Grad Student,40.15,Pizza,34,No,Yes
+1015,2026-05-28,20:15:13,Dorm,18.72,Pizza,28,No,Yes
+1016,2026-05-29,20:17:05,Dorm,18.70,Breakfast,34,Yes,Yes
+1017,2026-05-30,18:24:50,Dorm,21.43,Pizza,25,No,No
+1018,2026-05-30,18:29:56,Dorm,17.39,Breakfast,24,No,No
+1019,2026-05-30,18:37:32,Dorm,13.62,Indian,37,No,
+1020,2026-05-30,20:23:32,Greek Life,73.60,Asian,16,No,Yes
+1021,2026-05-30,20:47:19,Dorm,22.13,Pizza,21,No,Yes
+1022,2026-05-31,12:27:21,Grad Student,48.79,Indian,32,Yes,Yes
+1023,2026-05-31,13:35:41,Grad Student,26.82,Mexican,41,No,Yes
+1024,2026-05-31,17:44:06,Dorm,17.08,Indian,28,No,
+1025,2026-05-31,18:02:51,Dorm,18.29,Salads,31,No,Yes
+1026,2026-05-31,21:16:58,Grad Student,23.69,Asian,17,No,Yes
+1027,2026-05-31,22:12:53,Off-Campus,23.48,Asian,43,No,No
+1028,2026-05-31,22:42:07,Greek Life,48.18,Mexican,29,No,No
+1029,2026-06-01,12:33:12,Off-Campus,22.31,Pizza,30,No,No
+1030,2026-06-01,17:08:32,Grad Student,29.59,Mexican,23,No,Yes
+1031,2026-06-01,17:50:26,Dorm,13.01,Asian,25,No,Yes
+1032,2026-06-01,19:07:21,Greek Life,23.69,Pizza,33,No,
+1033,2026-06-01,19:40:02,Grad Student,21.57,Pizza,26,No,Yes
+1034,2026-06-02,19:34:12,Dorm,23.55,Burgers,29,No,Yes
+1035,2026-06-02,20:25:02,Off-Campus,25.80,Burgers,30,Yes,Yes
+1036,2026-06-03,14:46:04,Grad Student,23.12,Asian,37,No,No
+1037,2026-06-03,19:27:25,Greek Life,75.12,Burgers,32,No,No
+1038,2026-06-04,12:28:14,Dorm,17.79,Breakfast,26,No,No
+1039,2026-06-04,12:38:10,Grad Student,36.09,Indian,34,No,
+1040,2026-06-04,16:16:19,Grad Student,20.49,Salads,24,No,
+1041,2026-06-04,18:30:08,Dorm,11.11,Asian,31,No,Yes
+1042,2026-06-05,11:17:11,Dorm,14.83,Salads,33,No,Yes
+1043,2026-06-05,13:53:32,Off-Campus,18.04,Indian,28,No,No
+1044,2026-06-05,13:56:46,Dorm,16.33,Mexican,38,No,
+1045,2026-06-06,10:29:47,Grad Student,32.16,Indian,30,Yes,Yes
+1046,2026-06-06,14:20:37,Greek Life,44.31,Pizza,29,Yes,No
+1047,2026-06-06,17:11:15,Dorm,18.02,Mediterranean,24,Yes,No
+1048,2026-06-06,20:35:43,Dorm,12.55,Asian,33,No,Yes
+1049,2026-06-07,13:36:30,Dorm,11.60,Pizza,35,No,Yes
+1050,2026-06-07,15:17:47,Grad Student,25.32,Mexican,26,Yes,Yes
+1051,2026-06-07,17:26:44,Grad Student,26.44,Mediterranean,37,No,No
+1052,2026-06-07,22:00:10,Greek Life,52.81,Mexican,34,No,Yes
+1053,2026-06-08,18:47:48,Greek Life,45.23,Asian,24,Yes,No
+1054,2026-06-08,20:36:06,Grad Student,23.08,Salads,25,No,
+1055,2026-06-09,16:13:48,Greek Life,65.02,Mediterranean,32,No,No
+1056,2026-06-09,20:35:28,Off-Campus,9.20,Mexican,31,No,Yes
+1057,2026-06-09,21:04:32,Off-Campus,16.52,Asian,18,Yes,No
+1058,2026-06-10,12:37:38,Dorm,5.00,Pizza,15,No,Yes
+1059,2026-06-10,13:32:35,Off-Campus,22.28,Pizza,19,No,No
+1060,2026-06-10,13:49:44,Dorm,15.06,Pizza,36,No,Yes
+1061,2026-06-10,13:56:05,Off-Campus,27.40,Mediterranean,26,Yes,
+1062,2026-06-10,15:37:46,Dorm,12.84,Burgers,39,Yes,No
+1063,2026-06-10,15:42:31,Dorm,8.67,Mexican,31,No,Yes
+1064,2026-06-10,17:36:33,Dorm,19.73,Indian,24,No,Yes
+1065,2026-06-10,19:33:20,Dorm,11.75,Mexican,26,Yes,Yes
+1066,2026-06-10,19:53:16,Dorm,17.81,Pizza,24,Yes,
+1067,2026-06-11,13:01:46,Off-Campus,22.84,Salads,31,No,No
+1068,2026-06-11,14:44:15,Dorm,5.00,Burgers,36,Yes,Yes
+1069,2026-06-11,15:07:50,Grad Student,30.18,Salads,37,No,
+1070,2026-06-11,17:19:28,Off-Campus,12.50,Pizza,35,Yes,No
+1071,2026-06-11,21:27:06,Off-Campus,26.10,Burgers,25,No,No
+1072,2026-06-12,13:43:23,Grad Student,26.91,Asian,36,No,Yes
+1073,2026-06-12,16:26:04,Dorm,9.23,Pizza,19,No,Yes
+1074,2026-06-12,21:10:26,Dorm,10.97,Breakfast,31,Yes,Yes
+1075,2026-06-12,22:46:27,Dorm,16.30,Breakfast,39,No,Yes
+1076,2026-06-13,11:25:49,Greek Life,41.44,Mediterranean,35,No,No
+1077,2026-06-13,13:05:40,Grad Student,8.00,Pizza,32,No,Yes
+1078,2026-06-13,20:02:16,Dorm,19.55,Pizza,28,No,No
+1079,2026-06-13,21:08:31,Off-Campus,19.31,Asian,34,No,Yes
+1080,2026-06-14,11:04:08,Dorm,9.50,Burgers,29,No,No
+1081,2026-06-14,12:16:43,Greek Life,41.07,Asian,36,No,Yes
+1082,2026-06-14,13:15:00,Grad Student,28.37,Indian,30,Yes,No
+1083,2026-06-15,15:18:48,Grad Student,23.27,Burgers,31,No,No
+1084,2026-06-15,17:09:39,Off-Campus,11.98,Mexican,25,No,No
+1085,2026-06-16,10:40:29,Off-Campus,12.35,Indian,30,No,Yes
+1086,2026-06-16,12:11:09,Off-Campus,6.00,Pizza,34,No,Yes
+1087,2026-06-16,12:47:21,Dorm,15.62,Mexican,28,No,Yes
+1088,2026-06-16,20:50:26,Grad Student,28.67,Breakfast,43,No,No
+1089,2026-06-17,11:31:46,Off-Campus,14.21,Mexican,34,Yes,No
+1090,2026-06-17,12:05:11,Greek Life,36.97,Pizza,32,No,No
+1091,2026-06-17,17:04:20,Off-Campus,16.04,Breakfast,33,No,Yes
+1092,2026-06-18,11:41:39,Dorm,14.68,Mexican,24,No,Yes
+1093,2026-06-18,12:20:22,Grad Student,28.77,Indian,26,No,Yes
+1094,2026-06-18,16:31:20,Dorm,18.19,Asian,29,No,No
+1095,2026-06-19,13:10:59,Grad Student,24.05,Mediterranean,39,No,No
+1096,2026-06-19,20:13:10,Off-Campus,21.63,Burgers,30,No,Yes
+1097,2026-06-20,20:20:17,Off-Campus,20.22,Indian,39,No,No
+1098,2026-06-21,14:26:03,Grad Student,24.50,Indian,29,No,Yes
+1099,2026-06-21,18:08:37,Dorm,7.32,Mexican,42,Yes,No
+1100,2026-06-21,19:39:01,Grad Student,28.13,Indian,32,No,
+1101,2026-06-22,12:50:18,Off-Campus,16.64,Asian,33,No,No
+1102,2026-06-22,16:01:14,Dorm,17.12,Pizza,27,No,Yes
+1103,2026-06-22,16:55:25,Dorm,15.23,Burgers,29,No,No
+1104,2026-06-22,17:05:19,Dorm,15.66,Burgers,26,No,No
+1105,2026-06-22,17:19:27,Grad Student,26.46,Mediterranean,40,No,Yes
+1106,2026-06-22,17:59:56,Dorm,16.04,Breakfast,46,Yes,Yes
+1107,2026-06-22,20:37:20,Dorm,21.91,Pizza,33,No,Yes
+1108,2026-06-23,12:53:51,Off-Campus,22.45,Mexican,23,Yes,Yes
+1109,2026-06-23,17:39:18,Dorm,14.16,Asian,20,No,No
+1110,2026-06-23,19:30:29,Off-Campus,19.10,Mediterranean,36,No,Yes
+1111,2026-06-23,21:28:56,Dorm,11.80,Indian,32,No,Yes
+1112,2026-06-24,10:33:00,Greek Life,57.35,Indian,27,No,
+1113,2026-06-24,12:27:57,Dorm,13.14,Mexican,48,Yes,No
+1114,2026-06-24,20:12:53,Dorm,11.93,Burgers,26,No,
+1115,2026-06-25,13:29:37,Grad Student,20.36,Asian,27,No,Yes
+1116,2026-06-25,19:36:25,Greek Life,55.33,Burgers,31,Yes,No
+1117,2026-06-25,20:22:19,Grad Student,30.23,Pizza,25,No,Yes
+1118,2026-06-26,12:08:14,Dorm,13.27,Mexican,27,Yes,
+1119,2026-06-26,12:46:59,Off-Campus,13.68,Indian,18,No,No
+1120,2026-06-26,19:13:24,Off-Campus,18.63,Mediterranean,28,No,Yes
+1121,2026-06-27,11:11:18,Grad Student,26.56,Pizza,38,No,No
+1122,2026-06-27,15:13:18,Dorm,20.47,Mediterranean,27,No,Yes
+1123,2026-06-27,18:02:53,Grad Student,23.50,Mediterranean,28,No,No
+1124,2026-06-28,10:37:15,Dorm,18.95,Indian,34,No,No
+1125,2026-06-28,16:45:02,Off-Campus,14.26,Pizza,26,No,Yes
+1126,2026-06-29,13:23:43,Dorm,12.40,Burgers,24,No,No
+1127,2026-06-29,15:26:28,Greek Life,37.93,Pizza,39,No,Yes
+1128,2026-06-29,18:40:51,Dorm,12.56,Indian,29,No,
+1129,2026-06-29,18:55:54,Dorm,18.18,Indian,35,Yes,Yes
+1130,2026-06-30,10:36:32,Dorm,21.35,Mediterranean,30,No,No
+1131,2026-06-30,13:04:24,Off-Campus,18.58,Mexican,31,Yes,No
+1132,2026-06-30,19:12:32,Dorm,17.79,Asian,20,Yes,Yes
